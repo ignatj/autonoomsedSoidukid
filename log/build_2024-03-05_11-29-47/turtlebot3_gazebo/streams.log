@@ -1,0 +1,35 @@
+[0.842s] Invoking command in '/home/ignatj/ros2_ws/build/turtlebot3_gazebo': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/ignatj/ros2_ws/src/turtlebot3_simulations/turtlebot3_gazebo -DCMAKE_INSTALL_PREFIX=/home/ignatj/ros2_ws/install/turtlebot3_gazebo
+[1.090s] -- The C compiler identification is GNU 11.4.0
+[1.530s] -- The CXX compiler identification is GNU 11.4.0
+[1.550s] -- Detecting C compiler ABI info
+[1.912s] -- Detecting C compiler ABI info - done
+[1.926s] -- Check for working C compiler: /usr/bin/cc - skipped
+[1.927s] -- Detecting C compile features
+[1.928s] -- Detecting C compile features - done
+[1.937s] -- Detecting CXX compiler ABI info
+[2.230s] -- Detecting CXX compiler ABI info - done
+[2.258s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[2.259s] -- Detecting CXX compile features
+[2.260s] -- Detecting CXX compile features - done
+[2.270s] -- Found ament_cmake: 1.3.7 (/opt/ros/humble/share/ament_cmake/cmake)
+[3.011s] -- Found Python3: /usr/bin/python3.10 (found version "3.10.12") found components: Interpreter 
+[3.374s] [31mCMake Error at CMakeLists.txt:23 (find_package):
+[3.375s]   By not providing "Findgazebo.cmake" in CMAKE_MODULE_PATH this project has
+[3.375s]   asked CMake to find a package configuration file provided by "gazebo", but
+[3.375s]   CMake did not find one.
+[3.377s] 
+[3.378s]   Could not find a package configuration file provided by "gazebo" with any
+[3.378s]   of the following names:
+[3.379s] 
+[3.380s]     gazeboConfig.cmake
+[3.381s]     gazebo-config.cmake
+[3.381s] 
+[3.382s]   Add the installation prefix of "gazebo" to CMAKE_PREFIX_PATH or set
+[3.383s]   "gazebo_DIR" to a directory containing one of the above files.  If "gazebo"
+[3.384s]   provides a separate development package or SDK, be sure it has been
+[3.386s]   installed.
+[3.387s] 
+[3.387s] [0m
+[3.389s] -- Configuring incomplete, errors occurred!
+[3.390s] See also "/home/ignatj/ros2_ws/build/turtlebot3_gazebo/CMakeFiles/CMakeOutput.log".
+[4.172s] Invoked command in '/home/ignatj/ros2_ws/build/turtlebot3_gazebo' returned '1': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/ignatj/ros2_ws/src/turtlebot3_simulations/turtlebot3_gazebo -DCMAKE_INSTALL_PREFIX=/home/ignatj/ros2_ws/install/turtlebot3_gazebo

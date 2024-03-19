@@ -1,0 +1,90 @@
+[0.786s] Invoking command in '/home/ignatj/ros2_ws/build/turtlebot3_gazebo': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ignatj/ros2_ws/install/my_robot_controller:/home/ignatj/ros2_ws/install/launch_testing_examples:/home/ignatj/ros2_ws/install/examples_rclpy_pointcloud_publisher:/home/ignatj/ros2_ws/install/examples_rclpy_minimal_subscriber:/home/ignatj/ros2_ws/install/examples_rclpy_minimal_service:/home/ignatj/ros2_ws/install/examples_rclpy_minimal_publisher:/home/ignatj/ros2_ws/install/examples_rclpy_minimal_client:/home/ignatj/ros2_ws/install/examples_rclpy_minimal_action_server:/home/ignatj/ros2_ws/install/examples_rclpy_minimal_action_client:/home/ignatj/ros2_ws/install/examples_rclpy_guard_conditions:/home/ignatj/ros2_ws/install/examples_rclpy_executors:/opt/ros/humble /usr/bin/cmake --build /home/ignatj/ros2_ws/build/turtlebot3_gazebo -- -j6 -l6
+[1.046s] [ 25%] Built target turtlebot3_drive
+[1.148s] [ 50%] Built target obstacle1
+[1.165s] [ 75%] Built target obstacle2
+[1.181s] [100%] Built target obstacles
+[1.236s] Invoked command in '/home/ignatj/ros2_ws/build/turtlebot3_gazebo' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ignatj/ros2_ws/install/my_robot_controller:/home/ignatj/ros2_ws/install/launch_testing_examples:/home/ignatj/ros2_ws/install/examples_rclpy_pointcloud_publisher:/home/ignatj/ros2_ws/install/examples_rclpy_minimal_subscriber:/home/ignatj/ros2_ws/install/examples_rclpy_minimal_service:/home/ignatj/ros2_ws/install/examples_rclpy_minimal_publisher:/home/ignatj/ros2_ws/install/examples_rclpy_minimal_client:/home/ignatj/ros2_ws/install/examples_rclpy_minimal_action_server:/home/ignatj/ros2_ws/install/examples_rclpy_minimal_action_client:/home/ignatj/ros2_ws/install/examples_rclpy_guard_conditions:/home/ignatj/ros2_ws/install/examples_rclpy_executors:/opt/ros/humble /usr/bin/cmake --build /home/ignatj/ros2_ws/build/turtlebot3_gazebo -- -j6 -l6
+[1.714s] Invoking command in '/home/ignatj/ros2_ws/build/turtlebot3_gazebo': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ignatj/ros2_ws/install/my_robot_controller:/home/ignatj/ros2_ws/install/launch_testing_examples:/home/ignatj/ros2_ws/install/examples_rclpy_pointcloud_publisher:/home/ignatj/ros2_ws/install/examples_rclpy_minimal_subscriber:/home/ignatj/ros2_ws/install/examples_rclpy_minimal_service:/home/ignatj/ros2_ws/install/examples_rclpy_minimal_publisher:/home/ignatj/ros2_ws/install/examples_rclpy_minimal_client:/home/ignatj/ros2_ws/install/examples_rclpy_minimal_action_server:/home/ignatj/ros2_ws/install/examples_rclpy_minimal_action_client:/home/ignatj/ros2_ws/install/examples_rclpy_guard_conditions:/home/ignatj/ros2_ws/install/examples_rclpy_executors:/opt/ros/humble /usr/bin/cmake --install /home/ignatj/ros2_ws/build/turtlebot3_gazebo
+[1.970s] -- Install configuration: ""
+[1.971s] -- Execute custom install script
+[1.971s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_gazebo/lib/turtlebot3_gazebo/turtlebot3_drive
+[1.973s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//launch/empty_world.launch.py
+[1.973s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//launch/robot_state_publisher.launch.py
+[1.974s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//launch/spawn_turtlebot3.launch.py
+[1.974s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//launch/turtlebot3_dqn_stage1.launch.py
+[1.975s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//launch/turtlebot3_dqn_stage2.launch.py
+[1.976s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//launch/turtlebot3_dqn_stage3.launch.py
+[1.976s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//launch/turtlebot3_dqn_stage4.launch.py
+[1.977s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//launch/turtlebot3_house.launch.py
+[1.978s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//launch/turtlebot3_world.launch.py
+[1.981s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/turtlebot3_burger/model-1_4.sdf
+[1.982s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/turtlebot3_burger/model.config
+[1.983s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/turtlebot3_burger/model.sdf
+[1.983s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/turtlebot3_common/meshes/burger_base.dae
+[1.984s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/turtlebot3_common/meshes/lds.dae
+[1.984s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/turtlebot3_common/meshes/r200.dae
+[1.986s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/turtlebot3_common/meshes/tire.dae
+[1.987s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/turtlebot3_common/meshes/waffle_base.dae
+[1.988s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/turtlebot3_common/meshes/waffle_pi_base.dae
+[1.989s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/turtlebot3_common/model.config
+[1.990s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/turtlebot3_dqn_world/goal_box/model.config
+[1.991s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/turtlebot3_dqn_world/goal_box/model.sdf
+[1.992s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/turtlebot3_dqn_world/inner_walls/model.config
+[1.993s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/turtlebot3_dqn_world/inner_walls/model.sdf
+[1.996s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/turtlebot3_dqn_world/model.config
+[1.997s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/turtlebot3_dqn_world/model.sdf
+[1.997s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/turtlebot3_dqn_world/obstacle1/model.config
+[1.998s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/turtlebot3_dqn_world/obstacle1/model.sdf
+[1.999s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/turtlebot3_dqn_world/obstacle2/model.config
+[1.999s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/turtlebot3_dqn_world/obstacle2/model.sdf
+[2.000s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/turtlebot3_dqn_world/obstacle_plugin/CMakeLists.txt
+[2.000s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/turtlebot3_dqn_world/obstacle_plugin/obstacle1.cc
+[2.001s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/turtlebot3_dqn_world/obstacle_plugin/obstacle2.cc
+[2.001s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/turtlebot3_dqn_world/obstacle_plugin/obstacles.cc
+[2.002s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/turtlebot3_dqn_world/obstacles/model.config
+[2.002s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/turtlebot3_dqn_world/obstacles/model.sdf
+[2.002s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/turtlebot3_house/model.config
+[2.003s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/turtlebot3_house/model.sdf
+[2.004s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/turtlebot3_waffle/model-1_4.sdf
+[2.004s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/turtlebot3_waffle/model.config
+[2.004s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/turtlebot3_waffle/model.sdf
+[2.005s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/turtlebot3_waffle_pi/model-1_4_.sdf
+[2.005s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/turtlebot3_waffle_pi/model.config
+[2.005s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/turtlebot3_waffle_pi/model.sdf
+[2.005s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/turtlebot3_world/meshes/hexagon.dae
+[2.006s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/turtlebot3_world/meshes/wall.dae
+[2.006s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/turtlebot3_world/model-1_4.sdf
+[2.006s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/turtlebot3_world/model.config
+[2.006s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//models/turtlebot3_world/model.sdf
+[2.006s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//rviz/tb3_gazebo.rviz
+[2.006s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//urdf/common_properties.urdf
+[2.007s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//urdf/turtlebot3_burger.urdf
+[2.007s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//urdf/turtlebot3_waffle.urdf
+[2.008s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//urdf/turtlebot3_waffle_pi.urdf
+[2.008s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//worlds/empty_world.world
+[2.010s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//worlds/fg.world
+[2.012s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//worlds/turtlebot3_dqn_stage1.world
+[2.013s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//worlds/turtlebot3_dqn_stage2.world
+[2.013s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//worlds/turtlebot3_dqn_stage3.world
+[2.015s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//worlds/turtlebot3_dqn_stage4.world
+[2.016s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//worlds/turtlebot3_house.world
+[2.019s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo//worlds/turtlebot3_world.world
+[2.020s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_gazebo/include//turtlebot3_gazebo/turtlebot3_drive.hpp
+[2.020s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_gazebo/share/ament_index/resource_index/package_run_dependencies/turtlebot3_gazebo
+[2.021s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_gazebo/share/ament_index/resource_index/parent_prefix_path/turtlebot3_gazebo
+[2.021s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo/environment/ament_prefix_path.sh
+[2.022s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo/environment/ament_prefix_path.dsv
+[2.022s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo/environment/path.sh
+[2.023s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo/environment/path.dsv
+[2.024s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo/local_setup.bash
+[2.024s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo/local_setup.sh
+[2.024s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo/local_setup.zsh
+[2.024s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo/local_setup.dsv
+[2.025s] -- Symlinking: /home/ignatj/ros2_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo/package.dsv
+[2.025s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_gazebo/share/ament_index/resource_index/packages/turtlebot3_gazebo
+[2.026s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo/cmake/ament_cmake_export_include_directories-extras.cmake
+[2.026s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo/cmake/ament_cmake_export_dependencies-extras.cmake
+[2.026s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo/cmake/turtlebot3_gazeboConfig.cmake
+[2.027s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo/cmake/turtlebot3_gazeboConfig-version.cmake
+[2.028s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_gazebo/share/turtlebot3_gazebo/package.xml
+[2.321s] Invoked command in '/home/ignatj/ros2_ws/build/turtlebot3_gazebo' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ignatj/ros2_ws/install/my_robot_controller:/home/ignatj/ros2_ws/install/launch_testing_examples:/home/ignatj/ros2_ws/install/examples_rclpy_pointcloud_publisher:/home/ignatj/ros2_ws/install/examples_rclpy_minimal_subscriber:/home/ignatj/ros2_ws/install/examples_rclpy_minimal_service:/home/ignatj/ros2_ws/install/examples_rclpy_minimal_publisher:/home/ignatj/ros2_ws/install/examples_rclpy_minimal_client:/home/ignatj/ros2_ws/install/examples_rclpy_minimal_action_server:/home/ignatj/ros2_ws/install/examples_rclpy_minimal_action_client:/home/ignatj/ros2_ws/install/examples_rclpy_guard_conditions:/home/ignatj/ros2_ws/install/examples_rclpy_executors:/opt/ros/humble /usr/bin/cmake --install /home/ignatj/ros2_ws/build/turtlebot3_gazebo

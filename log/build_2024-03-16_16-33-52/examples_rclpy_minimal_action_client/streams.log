@@ -1,0 +1,24 @@
+[3.603s] Invoking command in '/home/ignatj/ros2_ws/build/examples_rclpy_minimal_action_client': PYTHONPATH=/home/ignatj/ros2_ws/build/examples_rclpy_minimal_action_client/prefix_override:/home/ignatj/ros2_ws/install/examples_rclpy_minimal_action_client/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/ignatj/ros2_ws/build/examples_rclpy_minimal_action_client/build --no-deps install_data
+[4.187s] running develop
+[4.187s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[4.188s]   warnings.warn(
+[4.194s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[4.195s]   warnings.warn(
+[4.696s] running egg_info
+[4.696s] writing examples_rclpy_minimal_action_client.egg-info/PKG-INFO
+[4.698s] writing dependency_links to examples_rclpy_minimal_action_client.egg-info/dependency_links.txt
+[4.699s] writing entry points to examples_rclpy_minimal_action_client.egg-info/entry_points.txt
+[4.699s] writing requirements to examples_rclpy_minimal_action_client.egg-info/requires.txt
+[4.700s] writing top-level names to examples_rclpy_minimal_action_client.egg-info/top_level.txt
+[4.704s] reading manifest file 'examples_rclpy_minimal_action_client.egg-info/SOURCES.txt'
+[4.708s] writing manifest file 'examples_rclpy_minimal_action_client.egg-info/SOURCES.txt'
+[4.711s] running build_ext
+[4.712s] Creating /home/ignatj/ros2_ws/install/examples_rclpy_minimal_action_client/lib/python3.10/site-packages/examples-rclpy-minimal-action-client.egg-link (link to .)
+[4.714s] Installing client script to /home/ignatj/ros2_ws/install/examples_rclpy_minimal_action_client/lib/examples_rclpy_minimal_action_client
+[4.715s] Installing client_asyncio script to /home/ignatj/ros2_ws/install/examples_rclpy_minimal_action_client/lib/examples_rclpy_minimal_action_client
+[4.715s] Installing client_cancel script to /home/ignatj/ros2_ws/install/examples_rclpy_minimal_action_client/lib/examples_rclpy_minimal_action_client
+[4.716s] Installing client_not_composable script to /home/ignatj/ros2_ws/install/examples_rclpy_minimal_action_client/lib/examples_rclpy_minimal_action_client
+[4.717s] 
+[4.717s] Installed /home/ignatj/ros2_ws/build/examples_rclpy_minimal_action_client
+[4.717s] running install_data
+[5.657s] Invoked command in '/home/ignatj/ros2_ws/build/examples_rclpy_minimal_action_client' returned '0': PYTHONPATH=/home/ignatj/ros2_ws/build/examples_rclpy_minimal_action_client/prefix_override:/home/ignatj/ros2_ws/install/examples_rclpy_minimal_action_client/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/ignatj/ros2_ws/build/examples_rclpy_minimal_action_client/build --no-deps install_data

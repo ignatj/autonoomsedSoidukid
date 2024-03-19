@@ -1,0 +1,60 @@
+[5.216s] Invoking command in '/home/ignatj/ros2_ws/build/examples_rclpy_executors': PYTHONPATH=/home/ignatj/ros2_ws/build/examples_rclpy_executors/prefix_override:/home/ignatj/ros2_ws/install/examples_rclpy_executors/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --uninstall --editable --build-directory /home/ignatj/ros2_ws/build/examples_rclpy_executors/build
+[6.036s] running develop
+[6.069s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[6.070s]   warnings.warn(
+[6.074s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[6.075s]   warnings.warn(
+[6.547s] Removing /home/ignatj/ros2_ws/install/examples_rclpy_executors/lib/python3.10/site-packages/examples-rclpy-executors.egg-link (link to .)
+[8.070s] Invoked command in '/home/ignatj/ros2_ws/build/examples_rclpy_executors' returned '0': PYTHONPATH=/home/ignatj/ros2_ws/build/examples_rclpy_executors/prefix_override:/home/ignatj/ros2_ws/install/examples_rclpy_executors/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --uninstall --editable --build-directory /home/ignatj/ros2_ws/build/examples_rclpy_executors/build
+[8.073s] Invoking command in '/home/ignatj/ros2_ws/src/examples/rclpy/executors': PYTHONPATH=/home/ignatj/ros2_ws/build/examples_rclpy_executors/prefix_override:/home/ignatj/ros2_ws/install/examples_rclpy_executors/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../../build/examples_rclpy_executors build --build-base /home/ignatj/ros2_ws/build/examples_rclpy_executors/build install --record /home/ignatj/ros2_ws/build/examples_rclpy_executors/install.log --single-version-externally-managed
+[8.956s] running egg_info
+[8.958s] writing ../../../../build/examples_rclpy_executors/examples_rclpy_executors.egg-info/PKG-INFO
+[8.959s] writing dependency_links to ../../../../build/examples_rclpy_executors/examples_rclpy_executors.egg-info/dependency_links.txt
+[8.961s] writing entry points to ../../../../build/examples_rclpy_executors/examples_rclpy_executors.egg-info/entry_points.txt
+[8.962s] writing requirements to ../../../../build/examples_rclpy_executors/examples_rclpy_executors.egg-info/requires.txt
+[8.963s] writing top-level names to ../../../../build/examples_rclpy_executors/examples_rclpy_executors.egg-info/top_level.txt
+[8.969s] reading manifest file '../../../../build/examples_rclpy_executors/examples_rclpy_executors.egg-info/SOURCES.txt'
+[8.973s] writing manifest file '../../../../build/examples_rclpy_executors/examples_rclpy_executors.egg-info/SOURCES.txt'
+[8.979s] running build
+[8.979s] running build_py
+[8.979s] creating /home/ignatj/ros2_ws/build/examples_rclpy_executors/build
+[8.980s] creating /home/ignatj/ros2_ws/build/examples_rclpy_executors/build/lib
+[8.981s] creating /home/ignatj/ros2_ws/build/examples_rclpy_executors/build/lib/examples_rclpy_executors
+[8.981s] copying examples_rclpy_executors/composed.py -> /home/ignatj/ros2_ws/build/examples_rclpy_executors/build/lib/examples_rclpy_executors
+[8.981s] copying examples_rclpy_executors/listener.py -> /home/ignatj/ros2_ws/build/examples_rclpy_executors/build/lib/examples_rclpy_executors
+[8.982s] copying examples_rclpy_executors/custom_executor.py -> /home/ignatj/ros2_ws/build/examples_rclpy_executors/build/lib/examples_rclpy_executors
+[8.982s] copying examples_rclpy_executors/custom_callback_group.py -> /home/ignatj/ros2_ws/build/examples_rclpy_executors/build/lib/examples_rclpy_executors
+[8.982s] copying examples_rclpy_executors/callback_group.py -> /home/ignatj/ros2_ws/build/examples_rclpy_executors/build/lib/examples_rclpy_executors
+[8.983s] copying examples_rclpy_executors/__init__.py -> /home/ignatj/ros2_ws/build/examples_rclpy_executors/build/lib/examples_rclpy_executors
+[8.983s] copying examples_rclpy_executors/talker.py -> /home/ignatj/ros2_ws/build/examples_rclpy_executors/build/lib/examples_rclpy_executors
+[8.983s] running install
+[8.983s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[8.983s]   warnings.warn(
+[8.983s] running install_lib
+[8.987s] creating /home/ignatj/ros2_ws/install/examples_rclpy_executors/lib/python3.10/site-packages/examples_rclpy_executors
+[8.988s] copying /home/ignatj/ros2_ws/build/examples_rclpy_executors/build/lib/examples_rclpy_executors/composed.py -> /home/ignatj/ros2_ws/install/examples_rclpy_executors/lib/python3.10/site-packages/examples_rclpy_executors
+[8.989s] copying /home/ignatj/ros2_ws/build/examples_rclpy_executors/build/lib/examples_rclpy_executors/listener.py -> /home/ignatj/ros2_ws/install/examples_rclpy_executors/lib/python3.10/site-packages/examples_rclpy_executors
+[8.990s] copying /home/ignatj/ros2_ws/build/examples_rclpy_executors/build/lib/examples_rclpy_executors/custom_executor.py -> /home/ignatj/ros2_ws/install/examples_rclpy_executors/lib/python3.10/site-packages/examples_rclpy_executors
+[8.993s] copying /home/ignatj/ros2_ws/build/examples_rclpy_executors/build/lib/examples_rclpy_executors/custom_callback_group.py -> /home/ignatj/ros2_ws/install/examples_rclpy_executors/lib/python3.10/site-packages/examples_rclpy_executors
+[8.994s] copying /home/ignatj/ros2_ws/build/examples_rclpy_executors/build/lib/examples_rclpy_executors/callback_group.py -> /home/ignatj/ros2_ws/install/examples_rclpy_executors/lib/python3.10/site-packages/examples_rclpy_executors
+[8.994s] copying /home/ignatj/ros2_ws/build/examples_rclpy_executors/build/lib/examples_rclpy_executors/__init__.py -> /home/ignatj/ros2_ws/install/examples_rclpy_executors/lib/python3.10/site-packages/examples_rclpy_executors
+[8.995s] copying /home/ignatj/ros2_ws/build/examples_rclpy_executors/build/lib/examples_rclpy_executors/talker.py -> /home/ignatj/ros2_ws/install/examples_rclpy_executors/lib/python3.10/site-packages/examples_rclpy_executors
+[8.997s] byte-compiling /home/ignatj/ros2_ws/install/examples_rclpy_executors/lib/python3.10/site-packages/examples_rclpy_executors/composed.py to composed.cpython-310.pyc
+[8.999s] byte-compiling /home/ignatj/ros2_ws/install/examples_rclpy_executors/lib/python3.10/site-packages/examples_rclpy_executors/listener.py to listener.cpython-310.pyc
+[9.001s] byte-compiling /home/ignatj/ros2_ws/install/examples_rclpy_executors/lib/python3.10/site-packages/examples_rclpy_executors/custom_executor.py to custom_executor.cpython-310.pyc
+[9.004s] byte-compiling /home/ignatj/ros2_ws/install/examples_rclpy_executors/lib/python3.10/site-packages/examples_rclpy_executors/custom_callback_group.py to custom_callback_group.cpython-310.pyc
+[9.006s] byte-compiling /home/ignatj/ros2_ws/install/examples_rclpy_executors/lib/python3.10/site-packages/examples_rclpy_executors/callback_group.py to callback_group.cpython-310.pyc
+[9.009s] byte-compiling /home/ignatj/ros2_ws/install/examples_rclpy_executors/lib/python3.10/site-packages/examples_rclpy_executors/__init__.py to __init__.cpython-310.pyc
+[9.009s] byte-compiling /home/ignatj/ros2_ws/install/examples_rclpy_executors/lib/python3.10/site-packages/examples_rclpy_executors/talker.py to talker.cpython-310.pyc
+[9.011s] running install_data
+[9.012s] running install_egg_info
+[9.018s] Copying ../../../../build/examples_rclpy_executors/examples_rclpy_executors.egg-info to /home/ignatj/ros2_ws/install/examples_rclpy_executors/lib/python3.10/site-packages/examples_rclpy_executors-0.15.1-py3.10.egg-info
+[9.023s] running install_scripts
+[9.095s] Installing callback_group script to /home/ignatj/ros2_ws/install/examples_rclpy_executors/lib/examples_rclpy_executors
+[9.099s] Installing composed script to /home/ignatj/ros2_ws/install/examples_rclpy_executors/lib/examples_rclpy_executors
+[9.100s] Installing custom_callback_group script to /home/ignatj/ros2_ws/install/examples_rclpy_executors/lib/examples_rclpy_executors
+[9.101s] Installing custom_executor script to /home/ignatj/ros2_ws/install/examples_rclpy_executors/lib/examples_rclpy_executors
+[9.102s] Installing listener script to /home/ignatj/ros2_ws/install/examples_rclpy_executors/lib/examples_rclpy_executors
+[9.102s] Installing talker script to /home/ignatj/ros2_ws/install/examples_rclpy_executors/lib/examples_rclpy_executors
+[9.104s] writing list of installed files to '/home/ignatj/ros2_ws/build/examples_rclpy_executors/install.log'
+[9.400s] Invoked command in '/home/ignatj/ros2_ws/src/examples/rclpy/executors' returned '0': PYTHONPATH=/home/ignatj/ros2_ws/build/examples_rclpy_executors/prefix_override:/home/ignatj/ros2_ws/install/examples_rclpy_executors/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../../build/examples_rclpy_executors build --build-base /home/ignatj/ros2_ws/build/examples_rclpy_executors/build install --record /home/ignatj/ros2_ws/build/examples_rclpy_executors/install.log --single-version-externally-managed

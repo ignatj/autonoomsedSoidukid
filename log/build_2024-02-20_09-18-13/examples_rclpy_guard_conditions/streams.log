@@ -1,0 +1,28 @@
+[2.711s] Invoking command in '/home/ignatj/ros2_ws/build/examples_rclpy_guard_conditions': PYTHONPATH=/home/ignatj/ros2_ws/build/examples_rclpy_guard_conditions/prefix_override:/home/ignatj/ros2_ws/install/examples_rclpy_guard_conditions/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/ignatj/ros2_ws/build/examples_rclpy_guard_conditions/build --no-deps install_data
+[3.672s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[3.673s]   warnings.warn(
+[3.675s] running develop
+[3.676s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[3.676s]   warnings.warn(
+[4.366s] running egg_info
+[4.366s] creating examples_rclpy_guard_conditions.egg-info
+[4.366s] writing examples_rclpy_guard_conditions.egg-info/PKG-INFO
+[4.403s] writing dependency_links to examples_rclpy_guard_conditions.egg-info/dependency_links.txt
+[4.404s] writing entry points to examples_rclpy_guard_conditions.egg-info/entry_points.txt
+[4.405s] writing requirements to examples_rclpy_guard_conditions.egg-info/requires.txt
+[4.406s] writing top-level names to examples_rclpy_guard_conditions.egg-info/top_level.txt
+[4.407s] writing manifest file 'examples_rclpy_guard_conditions.egg-info/SOURCES.txt'
+[4.421s] reading manifest file 'examples_rclpy_guard_conditions.egg-info/SOURCES.txt'
+[4.424s] writing manifest file 'examples_rclpy_guard_conditions.egg-info/SOURCES.txt'
+[4.429s] running build_ext
+[4.430s] Creating /home/ignatj/ros2_ws/install/examples_rclpy_guard_conditions/lib/python3.10/site-packages/examples-rclpy-guard-conditions.egg-link (link to .)
+[4.433s] Installing trigger_guard_condition script to /home/ignatj/ros2_ws/install/examples_rclpy_guard_conditions/lib/examples_rclpy_guard_conditions
+[4.434s] 
+[4.435s] Installed /home/ignatj/ros2_ws/build/examples_rclpy_guard_conditions
+[4.435s] running install_data
+[4.435s] creating /home/ignatj/ros2_ws/install/examples_rclpy_guard_conditions/share/ament_index
+[4.435s] creating /home/ignatj/ros2_ws/install/examples_rclpy_guard_conditions/share/ament_index/resource_index
+[4.437s] creating /home/ignatj/ros2_ws/install/examples_rclpy_guard_conditions/share/ament_index/resource_index/packages
+[4.440s] copying resource/examples_rclpy_guard_conditions -> /home/ignatj/ros2_ws/install/examples_rclpy_guard_conditions/share/ament_index/resource_index/packages
+[4.441s] copying package.xml -> /home/ignatj/ros2_ws/install/examples_rclpy_guard_conditions/share/examples_rclpy_guard_conditions
+[4.890s] Invoked command in '/home/ignatj/ros2_ws/build/examples_rclpy_guard_conditions' returned '0': PYTHONPATH=/home/ignatj/ros2_ws/build/examples_rclpy_guard_conditions/prefix_override:/home/ignatj/ros2_ws/install/examples_rclpy_guard_conditions/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/ignatj/ros2_ws/build/examples_rclpy_guard_conditions/build --no-deps install_data

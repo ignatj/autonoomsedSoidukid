@@ -1,0 +1,21 @@
+[11.150s] Invoking command in '/home/ignatj/ros2_ws/build/my_robot_controller': PYTHONPATH=/home/ignatj/ros2_ws/build/my_robot_controller/prefix_override:/home/ignatj/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/ignatj/ros2_ws/build/my_robot_controller/build --no-deps install_data
+[12.219s] running develop
+[12.222s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[12.223s]   warnings.warn(
+[12.228s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[12.229s]   warnings.warn(
+[13.043s] running egg_info
+[13.044s] writing my_robot_controller.egg-info/PKG-INFO
+[13.044s] writing dependency_links to my_robot_controller.egg-info/dependency_links.txt
+[13.044s] writing entry points to my_robot_controller.egg-info/entry_points.txt
+[13.044s] writing requirements to my_robot_controller.egg-info/requires.txt
+[13.044s] writing top-level names to my_robot_controller.egg-info/top_level.txt
+[13.049s] reading manifest file 'my_robot_controller.egg-info/SOURCES.txt'
+[13.052s] writing manifest file 'my_robot_controller.egg-info/SOURCES.txt'
+[13.056s] running build_ext
+[13.057s] Creating /home/ignatj/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages/my-robot-controller.egg-link (link to .)
+[13.063s] Installing test_node script to /home/ignatj/ros2_ws/install/my_robot_controller/lib/my_robot_controller
+[13.064s] 
+[13.064s] Installed /home/ignatj/ros2_ws/build/my_robot_controller
+[13.065s] running install_data
+[13.419s] Invoked command in '/home/ignatj/ros2_ws/build/my_robot_controller' returned '0': PYTHONPATH=/home/ignatj/ros2_ws/build/my_robot_controller/prefix_override:/home/ignatj/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/ignatj/ros2_ws/build/my_robot_controller/build --no-deps install_data

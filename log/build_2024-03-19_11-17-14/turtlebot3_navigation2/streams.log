@@ -1,0 +1,48 @@
+[0.425s] Invoking command in '/home/ignatj/ros2_ws/build/turtlebot3_navigation2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ignatj/ros2_ws/install/my_robot_controller:/home/ignatj/ros2_ws/install/launch_testing_examples:/home/ignatj/ros2_ws/install/examples_rclpy_pointcloud_publisher:/home/ignatj/ros2_ws/install/examples_rclpy_minimal_subscriber:/home/ignatj/ros2_ws/install/examples_rclpy_minimal_service:/home/ignatj/ros2_ws/install/examples_rclpy_minimal_publisher:/home/ignatj/ros2_ws/install/examples_rclpy_minimal_client:/home/ignatj/ros2_ws/install/examples_rclpy_minimal_action_server:/home/ignatj/ros2_ws/install/examples_rclpy_minimal_action_client:/home/ignatj/ros2_ws/install/examples_rclpy_guard_conditions:/home/ignatj/ros2_ws/install/examples_rclpy_executors:/opt/ros/humble /usr/bin/cmake /home/ignatj/ros2_ws/src/turtlebot3/turtlebot3_navigation2 -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/ignatj/ros2_ws/install/turtlebot3_navigation2
+[0.626s] -- The C compiler identification is GNU 11.4.0
+[0.796s] -- The CXX compiler identification is GNU 11.4.0
+[0.816s] -- Detecting C compiler ABI info
+[1.055s] -- Detecting C compiler ABI info - done
+[1.073s] -- Check for working C compiler: /usr/bin/cc - skipped
+[1.074s] -- Detecting C compile features
+[1.074s] -- Detecting C compile features - done
+[1.083s] -- Detecting CXX compiler ABI info
+[1.367s] -- Detecting CXX compiler ABI info - done
+[1.367s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[1.368s] -- Detecting CXX compile features
+[1.368s] -- Detecting CXX compile features - done
+[1.371s] -- Found ament_cmake: 1.3.7 (/opt/ros/humble/share/ament_cmake/cmake)
+[1.988s] -- Found Python3: /usr/bin/python3.10 (found version "3.10.12") found components: Interpreter 
+[2.168s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[2.490s] -- Configuring done
+[2.496s] -- Generating done
+[2.499s] -- Build files have been written to: /home/ignatj/ros2_ws/build/turtlebot3_navigation2
+[3.310s] Invoked command in '/home/ignatj/ros2_ws/build/turtlebot3_navigation2' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ignatj/ros2_ws/install/my_robot_controller:/home/ignatj/ros2_ws/install/launch_testing_examples:/home/ignatj/ros2_ws/install/examples_rclpy_pointcloud_publisher:/home/ignatj/ros2_ws/install/examples_rclpy_minimal_subscriber:/home/ignatj/ros2_ws/install/examples_rclpy_minimal_service:/home/ignatj/ros2_ws/install/examples_rclpy_minimal_publisher:/home/ignatj/ros2_ws/install/examples_rclpy_minimal_client:/home/ignatj/ros2_ws/install/examples_rclpy_minimal_action_server:/home/ignatj/ros2_ws/install/examples_rclpy_minimal_action_client:/home/ignatj/ros2_ws/install/examples_rclpy_guard_conditions:/home/ignatj/ros2_ws/install/examples_rclpy_executors:/opt/ros/humble /usr/bin/cmake /home/ignatj/ros2_ws/src/turtlebot3/turtlebot3_navigation2 -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/ignatj/ros2_ws/install/turtlebot3_navigation2
+[3.320s] Invoking command in '/home/ignatj/ros2_ws/build/turtlebot3_navigation2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ignatj/ros2_ws/install/my_robot_controller:/home/ignatj/ros2_ws/install/launch_testing_examples:/home/ignatj/ros2_ws/install/examples_rclpy_pointcloud_publisher:/home/ignatj/ros2_ws/install/examples_rclpy_minimal_subscriber:/home/ignatj/ros2_ws/install/examples_rclpy_minimal_service:/home/ignatj/ros2_ws/install/examples_rclpy_minimal_publisher:/home/ignatj/ros2_ws/install/examples_rclpy_minimal_client:/home/ignatj/ros2_ws/install/examples_rclpy_minimal_action_server:/home/ignatj/ros2_ws/install/examples_rclpy_minimal_action_client:/home/ignatj/ros2_ws/install/examples_rclpy_guard_conditions:/home/ignatj/ros2_ws/install/examples_rclpy_executors:/opt/ros/humble /usr/bin/cmake --build /home/ignatj/ros2_ws/build/turtlebot3_navigation2 -- -j6 -l6
+[4.534s] Invoked command in '/home/ignatj/ros2_ws/build/turtlebot3_navigation2' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ignatj/ros2_ws/install/my_robot_controller:/home/ignatj/ros2_ws/install/launch_testing_examples:/home/ignatj/ros2_ws/install/examples_rclpy_pointcloud_publisher:/home/ignatj/ros2_ws/install/examples_rclpy_minimal_subscriber:/home/ignatj/ros2_ws/install/examples_rclpy_minimal_service:/home/ignatj/ros2_ws/install/examples_rclpy_minimal_publisher:/home/ignatj/ros2_ws/install/examples_rclpy_minimal_client:/home/ignatj/ros2_ws/install/examples_rclpy_minimal_action_server:/home/ignatj/ros2_ws/install/examples_rclpy_minimal_action_client:/home/ignatj/ros2_ws/install/examples_rclpy_guard_conditions:/home/ignatj/ros2_ws/install/examples_rclpy_executors:/opt/ros/humble /usr/bin/cmake --build /home/ignatj/ros2_ws/build/turtlebot3_navigation2 -- -j6 -l6
+[4.647s] Invoking command in '/home/ignatj/ros2_ws/build/turtlebot3_navigation2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ignatj/ros2_ws/install/my_robot_controller:/home/ignatj/ros2_ws/install/launch_testing_examples:/home/ignatj/ros2_ws/install/examples_rclpy_pointcloud_publisher:/home/ignatj/ros2_ws/install/examples_rclpy_minimal_subscriber:/home/ignatj/ros2_ws/install/examples_rclpy_minimal_service:/home/ignatj/ros2_ws/install/examples_rclpy_minimal_publisher:/home/ignatj/ros2_ws/install/examples_rclpy_minimal_client:/home/ignatj/ros2_ws/install/examples_rclpy_minimal_action_server:/home/ignatj/ros2_ws/install/examples_rclpy_minimal_action_client:/home/ignatj/ros2_ws/install/examples_rclpy_guard_conditions:/home/ignatj/ros2_ws/install/examples_rclpy_executors:/opt/ros/humble /usr/bin/cmake --install /home/ignatj/ros2_ws/build/turtlebot3_navigation2
+[4.678s] -- Install configuration: ""
+[4.680s] -- Execute custom install script
+[4.682s] -- Symlinking: /home/ignatj/ros2_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/launch/navigation2.launch.py
+[4.723s] -- Symlinking: /home/ignatj/ros2_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/map/map.pgm
+[4.761s] -- Symlinking: /home/ignatj/ros2_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/map/map.yaml
+[4.809s] -- Symlinking: /home/ignatj/ros2_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/param/burger.yaml
+[4.846s] -- Symlinking: /home/ignatj/ros2_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/param/waffle.yaml
+[4.932s] -- Symlinking: /home/ignatj/ros2_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/param/waffle_pi.yaml
+[5.009s] -- Symlinking: /home/ignatj/ros2_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/rviz/tb3_navigation2.rviz
+[5.087s] -- Symlinking: /home/ignatj/ros2_ws/install/turtlebot3_navigation2/share/ament_index/resource_index/package_run_dependencies/turtlebot3_navigation2
+[5.156s] -- Symlinking: /home/ignatj/ros2_ws/install/turtlebot3_navigation2/share/ament_index/resource_index/parent_prefix_path/turtlebot3_navigation2
+[5.220s] -- Symlinking: /home/ignatj/ros2_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/environment/ament_prefix_path.sh
+[5.275s] -- Symlinking: /home/ignatj/ros2_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/environment/ament_prefix_path.dsv
+[5.304s] -- Symlinking: /home/ignatj/ros2_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/environment/path.sh
+[5.338s] -- Symlinking: /home/ignatj/ros2_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/environment/path.dsv
+[5.369s] -- Symlinking: /home/ignatj/ros2_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/local_setup.bash
+[5.400s] -- Symlinking: /home/ignatj/ros2_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/local_setup.sh
+[5.434s] -- Symlinking: /home/ignatj/ros2_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/local_setup.zsh
+[5.464s] -- Symlinking: /home/ignatj/ros2_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/local_setup.dsv
+[5.496s] -- Symlinking: /home/ignatj/ros2_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/package.dsv
+[5.536s] -- Symlinking: /home/ignatj/ros2_ws/install/turtlebot3_navigation2/share/ament_index/resource_index/packages/turtlebot3_navigation2
+[5.569s] -- Symlinking: /home/ignatj/ros2_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/cmake/turtlebot3_navigation2Config.cmake
+[5.605s] -- Symlinking: /home/ignatj/ros2_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/cmake/turtlebot3_navigation2Config-version.cmake
+[5.637s] -- Symlinking: /home/ignatj/ros2_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/package.xml
+[5.695s] Invoked command in '/home/ignatj/ros2_ws/build/turtlebot3_navigation2' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ignatj/ros2_ws/install/my_robot_controller:/home/ignatj/ros2_ws/install/launch_testing_examples:/home/ignatj/ros2_ws/install/examples_rclpy_pointcloud_publisher:/home/ignatj/ros2_ws/install/examples_rclpy_minimal_subscriber:/home/ignatj/ros2_ws/install/examples_rclpy_minimal_service:/home/ignatj/ros2_ws/install/examples_rclpy_minimal_publisher:/home/ignatj/ros2_ws/install/examples_rclpy_minimal_client:/home/ignatj/ros2_ws/install/examples_rclpy_minimal_action_server:/home/ignatj/ros2_ws/install/examples_rclpy_minimal_action_client:/home/ignatj/ros2_ws/install/examples_rclpy_guard_conditions:/home/ignatj/ros2_ws/install/examples_rclpy_executors:/opt/ros/humble /usr/bin/cmake --install /home/ignatj/ros2_ws/build/turtlebot3_navigation2

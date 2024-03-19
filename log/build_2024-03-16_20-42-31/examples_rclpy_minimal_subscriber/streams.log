@@ -1,0 +1,25 @@
+[5.362s] Invoking command in '/home/ignatj/ros2_ws/src/examples/rclpy/topics/minimal_subscriber': PYTHONPATH=/home/ignatj/ros2_ws/build/examples_rclpy_minimal_subscriber/prefix_override:/home/ignatj/ros2_ws/install/examples_rclpy_minimal_subscriber/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../../../build/examples_rclpy_minimal_subscriber build --build-base /home/ignatj/ros2_ws/build/examples_rclpy_minimal_subscriber/build install --record /home/ignatj/ros2_ws/build/examples_rclpy_minimal_subscriber/install.log --single-version-externally-managed
+[6.134s] running egg_info
+[6.136s] writing ../../../../../build/examples_rclpy_minimal_subscriber/examples_rclpy_minimal_subscriber.egg-info/PKG-INFO
+[6.138s] writing dependency_links to ../../../../../build/examples_rclpy_minimal_subscriber/examples_rclpy_minimal_subscriber.egg-info/dependency_links.txt
+[6.139s] writing entry points to ../../../../../build/examples_rclpy_minimal_subscriber/examples_rclpy_minimal_subscriber.egg-info/entry_points.txt
+[6.140s] writing requirements to ../../../../../build/examples_rclpy_minimal_subscriber/examples_rclpy_minimal_subscriber.egg-info/requires.txt
+[6.142s] writing top-level names to ../../../../../build/examples_rclpy_minimal_subscriber/examples_rclpy_minimal_subscriber.egg-info/top_level.txt
+[6.150s] reading manifest file '../../../../../build/examples_rclpy_minimal_subscriber/examples_rclpy_minimal_subscriber.egg-info/SOURCES.txt'
+[6.154s] writing manifest file '../../../../../build/examples_rclpy_minimal_subscriber/examples_rclpy_minimal_subscriber.egg-info/SOURCES.txt'
+[6.155s] running build
+[6.155s] running build_py
+[6.163s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[6.163s]   warnings.warn(
+[6.164s] running install
+[6.174s] running install_lib
+[6.175s] running install_data
+[6.176s] running install_egg_info
+[6.177s] removing '/home/ignatj/ros2_ws/install/examples_rclpy_minimal_subscriber/lib/python3.10/site-packages/examples_rclpy_minimal_subscriber-0.15.1-py3.10.egg-info' (and everything under it)
+[6.179s] Copying ../../../../../build/examples_rclpy_minimal_subscriber/examples_rclpy_minimal_subscriber.egg-info to /home/ignatj/ros2_ws/install/examples_rclpy_minimal_subscriber/lib/python3.10/site-packages/examples_rclpy_minimal_subscriber-0.15.1-py3.10.egg-info
+[6.179s] running install_scripts
+[6.250s] Installing subscriber_lambda script to /home/ignatj/ros2_ws/install/examples_rclpy_minimal_subscriber/lib/examples_rclpy_minimal_subscriber
+[6.252s] Installing subscriber_member_function script to /home/ignatj/ros2_ws/install/examples_rclpy_minimal_subscriber/lib/examples_rclpy_minimal_subscriber
+[6.253s] Installing subscriber_old_school script to /home/ignatj/ros2_ws/install/examples_rclpy_minimal_subscriber/lib/examples_rclpy_minimal_subscriber
+[6.260s] writing list of installed files to '/home/ignatj/ros2_ws/build/examples_rclpy_minimal_subscriber/install.log'
+[6.904s] Invoked command in '/home/ignatj/ros2_ws/src/examples/rclpy/topics/minimal_subscriber' returned '0': PYTHONPATH=/home/ignatj/ros2_ws/build/examples_rclpy_minimal_subscriber/prefix_override:/home/ignatj/ros2_ws/install/examples_rclpy_minimal_subscriber/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../../../build/examples_rclpy_minimal_subscriber build --build-base /home/ignatj/ros2_ws/build/examples_rclpy_minimal_subscriber/build install --record /home/ignatj/ros2_ws/build/examples_rclpy_minimal_subscriber/install.log --single-version-externally-managed

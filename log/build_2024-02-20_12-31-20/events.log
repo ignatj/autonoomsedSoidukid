@@ -1,0 +1,77 @@
+[0.000000] (-) TimerEvent: {}
+[0.000639] (-) JobUnselected: {'identifier': 'examples_rclcpp_async_client'}
+[0.000798] (-) JobUnselected: {'identifier': 'examples_rclcpp_cbg_executor'}
+[0.000958] (-) JobUnselected: {'identifier': 'examples_rclcpp_minimal_action_client'}
+[0.001057] (-) JobUnselected: {'identifier': 'examples_rclcpp_minimal_action_server'}
+[0.001187] (-) JobUnselected: {'identifier': 'examples_rclcpp_minimal_client'}
+[0.001306] (-) JobUnselected: {'identifier': 'examples_rclcpp_minimal_composition'}
+[0.001422] (-) JobUnselected: {'identifier': 'examples_rclcpp_minimal_publisher'}
+[0.001565] (-) JobUnselected: {'identifier': 'examples_rclcpp_minimal_service'}
+[0.001682] (-) JobUnselected: {'identifier': 'examples_rclcpp_minimal_subscriber'}
+[0.001798] (-) JobUnselected: {'identifier': 'examples_rclcpp_minimal_timer'}
+[0.001914] (-) JobUnselected: {'identifier': 'examples_rclcpp_multithreaded_executor'}
+[0.002026] (-) JobUnselected: {'identifier': 'examples_rclcpp_wait_set'}
+[0.002072] (-) JobUnselected: {'identifier': 'examples_rclpy_executors'}
+[0.002184] (-) JobUnselected: {'identifier': 'examples_rclpy_guard_conditions'}
+[0.002299] (-) JobUnselected: {'identifier': 'examples_rclpy_minimal_action_client'}
+[0.002402] (-) JobUnselected: {'identifier': 'examples_rclpy_minimal_action_server'}
+[0.002442] (-) JobUnselected: {'identifier': 'examples_rclpy_minimal_client'}
+[0.002567] (-) JobUnselected: {'identifier': 'examples_rclpy_minimal_publisher'}
+[0.002958] (-) JobUnselected: {'identifier': 'examples_rclpy_minimal_service'}
+[0.003112] (-) JobUnselected: {'identifier': 'examples_rclpy_minimal_subscriber'}
+[0.003207] (-) JobUnselected: {'identifier': 'examples_rclpy_pointcloud_publisher'}
+[0.003240] (-) JobUnselected: {'identifier': 'launch_testing_examples'}
+[0.003323] (-) JobUnselected: {'identifier': 'turtlesim'}
+[0.003362] (my_robot_controller) JobQueued: {'identifier': 'my_robot_controller', 'dependencies': OrderedDict()}
+[0.003454] (my_robot_controller) JobStarted: {'identifier': 'my_robot_controller'}
+[0.097993] (-) TimerEvent: {}
+[0.199281] (-) TimerEvent: {}
+[0.300803] (-) TimerEvent: {}
+[0.401692] (-) TimerEvent: {}
+[0.502821] (-) TimerEvent: {}
+[0.603599] (-) TimerEvent: {}
+[0.704865] (-) TimerEvent: {}
+[0.806278] (-) TimerEvent: {}
+[0.908676] (-) TimerEvent: {}
+[1.013783] (-) TimerEvent: {}
+[1.115046] (-) TimerEvent: {}
+[1.216722] (-) TimerEvent: {}
+[1.317700] (-) TimerEvent: {}
+[1.419119] (-) TimerEvent: {}
+[1.520270] (-) TimerEvent: {}
+[1.621847] (-) TimerEvent: {}
+[1.661394] (my_robot_controller) Command: {'cmd': ['/usr/bin/python3', 'setup.py', 'egg_info', '--egg-base', '../../build/my_robot_controller', 'build', '--build-base', '/home/ignatj/ros2_ws/build/my_robot_controller/build', 'install', '--record', '/home/ignatj/ros2_ws/build/my_robot_controller/install.log', '--single-version-externally-managed'], 'cwd': '/home/ignatj/ros2_ws/src/my_robot_controller', 'env': {'LESSOPEN': '| /usr/bin/lesspipe %s', 'LANGUAGE': 'en_US:', 'USER': 'ignatj', 'LC_TIME': 'et_EE.UTF-8', 'XDG_SESSION_TYPE': 'wayland', 'SHLVL': '1', 'LD_LIBRARY_PATH': '/home/ignatj/ros2_ws/install/turtlesim/lib:/home/ignatj/ros2_ws/install/examples_rclcpp_wait_set/lib:/home/ignatj/ros2_ws/install/examples_rclcpp_minimal_subscriber/lib:/home/ignatj/ros2_ws/install/examples_rclcpp_minimal_composition/lib:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib', 'HOME': '/home/ignatj', 'OLDPWD': '/home/ignatj/ros2_ws/src/my_robot_controller/my_robot_controller', 'DESKTOP_SESSION': 'ubuntu', 'ROS_PYTHON_VERSION': '3', 'GNOME_SHELL_SESSION_MODE': 'ubuntu', 'GTK_MODULES': 'gail:atk-bridge', 'LC_MONETARY': 'et_EE.UTF-8', 'MANAGERPID': '1689', 'SYSTEMD_EXEC_PID': '2078', 'DBUS_SESSION_BUS_ADDRESS': 'unix:path=/run/user/1000/bus', 'COLORTERM': 'truecolor', 'TERMINATOR_DBUS_NAME': 'net.tenshu.Terminator25ef4b219e3b005583550f2b0f9f990c3', 'GIO_LAUNCHED_DESKTOP_FILE_PID': '15217', '_colcon_cd_root': '/opt/ros/humble/', 'IM_CONFIG_PHASE': '1', 'WAYLAND_DISPLAY': 'wayland-0', 'COLCON_PREFIX_PATH': '/home/ignatj/ros2_ws/install', 'ROS_DISTRO': 'humble', 'LOGNAME': 'ignatj', 'JOURNAL_STREAM': '8:39241', '_': '/usr/bin/colcon', 'ROS_VERSION': '2', 'XDG_SESSION_CLASS': 'user', 'USERNAME': 'ignatj', 'TERM': 'xterm-256color', 'GNOME_DESKTOP_SESSION_ID': 'this-is-deprecated', 'ROS_LOCALHOST_ONLY': '0', 'PATH': '/opt/ros/humble/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/snap/bin', 'SESSION_MANAGER': 'local/ignatj-virtual-machine:@/tmp/.ICE-unix/1839,unix/ignatj-virtual-machine:/tmp/.ICE-unix/1839', 'INVOCATION_ID': '8daf66869f4b406e9c8e9dcad2d4ad69', 'XDG_MENU_PREFIX': 'gnome-', 'LC_ADDRESS': 'et_EE.UTF-8', 'GNOME_SETUP_DISPLAY': ':1', 'XDG_RUNTIME_DIR': '/run/user/1000', 'DISPLAY': ':0', 'TERMINATOR_DBUS_PATH': '/net/tenshu/Terminator2', 'LANG': 'en_US.UTF-8', 'XDG_CURRENT_DESKTOP': 'ubuntu:GNOME', 'IBUS_DISABLE_SNOOPER': '1', 'LC_TELEPHONE': 'et_EE.UTF-8', 'XMODIFIERS': '@im=ibus', 'XDG_SESSION_DESKTOP': 'ubuntu', 'XAUTHORITY': '/run/user/1000/.mutter-Xwaylandauth.GTTVJ2', 'LS_COLORS': 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:', 'SSH_AGENT_LAUNCHER': 'gnome-keyring', 'SSH_AUTH_SOCK': '/run/user/1000/keyring/ssh', 'ROS_DOMAIN_ID': '5', 'AMENT_PREFIX_PATH': '/home/ignatj/ros2_ws/install/turtlesim:/home/ignatj/ros2_ws/install/my_robot_controller:/home/ignatj/ros2_ws/install/launch_testing_examples:/home/ignatj/ros2_ws/install/examples_rclpy_pointcloud_publisher:/home/ignatj/ros2_ws/install/examples_rclpy_minimal_subscriber:/home/ignatj/ros2_ws/install/examples_rclpy_minimal_service:/home/ignatj/ros2_ws/install/examples_rclpy_minimal_publisher:/home/ignatj/ros2_ws/install/examples_rclpy_minimal_client:/home/ignatj/ros2_ws/install/examples_rclpy_minimal_action_server:/home/ignatj/ros2_ws/install/examples_rclpy_minimal_action_client:/home/ignatj/ros2_ws/install/examples_rclpy_guard_conditions:/home/ignatj/ros2_ws/install/examples_rclpy_executors:/home/ignatj/ros2_ws/install/examples_rclcpp_wait_set:/home/ignatj/ros2_ws/install/examples_rclcpp_multithreaded_executor:/home/ignatj/ros2_ws/install/examples_rclcpp_minimal_timer:/home/ignatj/ros2_ws/install/examples_rclcpp_minimal_subscriber:/home/ignatj/ros2_ws/install/examples_rclcpp_minimal_service:/home/ignatj/ros2_ws/install/examples_rclcpp_minimal_publisher:/home/ignatj/ros2_ws/install/examples_rclcpp_minimal_composition:/home/ignatj/ros2_ws/install/examples_rclcpp_minimal_client:/home/ignatj/ros2_ws/install/examples_rclcpp_minimal_action_server:/home/ignatj/ros2_ws/install/examples_rclcpp_minimal_action_client:/home/ignatj/ros2_ws/install/examples_rclcpp_cbg_executor:/home/ignatj/ros2_ws/install/examples_rclcpp_async_client:/opt/ros/humble', 'SHELL': '/bin/bash', 'LC_NAME': 'et_EE.UTF-8', 'TERMINATOR_UUID': 'urn:uuid:90493ba8-b59f-495d-8977-b634a4603688', 'QT_ACCESSIBILITY': '1', 'GDMSESSION': 'ubuntu', 'LESSCLOSE': '/usr/bin/lesspipe %s %s', 'LC_MEASUREMENT': 'et_EE.UTF-8', 'LC_IDENTIFICATION': 'et_EE.UTF-8', 'QT_IM_MODULE': 'ibus', 'PWD': '/home/ignatj/ros2_ws/build/my_robot_controller', 'LC_ALL': 'en_US.UTF-8', 'XDG_CONFIG_DIRS': '/etc/xdg/xdg-ubuntu:/etc/xdg', 'XDG_DATA_DIRS': '/usr/share/ubuntu:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop', 'PYTHONPATH': '/home/ignatj/ros2_ws/build/my_robot_controller/prefix_override:/home/ignatj/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages:/home/ignatj/ros2_ws/install/turtlesim/local/lib/python3.10/dist-packages:/home/ignatj/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages:/home/ignatj/ros2_ws/install/launch_testing_examples/lib/python3.10/site-packages:/home/ignatj/ros2_ws/install/examples_rclpy_pointcloud_publisher/lib/python3.10/site-packages:/home/ignatj/ros2_ws/install/examples_rclpy_minimal_subscriber/lib/python3.10/site-packages:/home/ignatj/ros2_ws/install/examples_rclpy_minimal_service/lib/python3.10/site-packages:/home/ignatj/ros2_ws/install/examples_rclpy_minimal_publisher/lib/python3.10/site-packages:/home/ignatj/ros2_ws/install/examples_rclpy_minimal_client/lib/python3.10/site-packages:/home/ignatj/ros2_ws/install/examples_rclpy_minimal_action_server/lib/python3.10/site-packages:/home/ignatj/ros2_ws/install/examples_rclpy_minimal_action_client/lib/python3.10/site-packages:/home/ignatj/ros2_ws/install/examples_rclpy_guard_conditions/lib/python3.10/site-packages:/home/ignatj/ros2_ws/install/examples_rclpy_executors/lib/python3.10/site-packages:/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages', 'LC_NUMERIC': 'et_EE.UTF-8', 'LC_PAPER': 'et_EE.UTF-8', 'COLCON': '1', 'VTE_VERSION': '6800', 'CMAKE_PREFIX_PATH': '/home/ignatj/ros2_ws/install/turtlesim:/home/ignatj/ros2_ws/install/examples_rclcpp_wait_set:/home/ignatj/ros2_ws/install/examples_rclcpp_multithreaded_executor:/home/ignatj/ros2_ws/install/examples_rclcpp_minimal_timer:/home/ignatj/ros2_ws/install/examples_rclcpp_minimal_subscriber:/home/ignatj/ros2_ws/install/examples_rclcpp_minimal_service:/home/ignatj/ros2_ws/install/examples_rclcpp_minimal_publisher:/home/ignatj/ros2_ws/install/examples_rclcpp_minimal_composition:/home/ignatj/ros2_ws/install/examples_rclcpp_minimal_client:/home/ignatj/ros2_ws/install/examples_rclcpp_minimal_action_server:/home/ignatj/ros2_ws/install/examples_rclcpp_minimal_action_client:/home/ignatj/ros2_ws/install/examples_rclcpp_cbg_executor:/home/ignatj/ros2_ws/install/examples_rclcpp_async_client'}, 'shell': False}
+[1.722699] (-) TimerEvent: {}
+[1.823922] (-) TimerEvent: {}
+[1.925100] (-) TimerEvent: {}
+[2.026682] (-) TimerEvent: {}
+[2.113875] (my_robot_controller) StdoutLine: {'line': b'running egg_info\n'}
+[2.115848] (my_robot_controller) StdoutLine: {'line': b'writing ../../build/my_robot_controller/my_robot_controller.egg-info/PKG-INFO\n'}
+[2.118339] (my_robot_controller) StdoutLine: {'line': b'writing dependency_links to ../../build/my_robot_controller/my_robot_controller.egg-info/dependency_links.txt\n'}
+[2.118669] (my_robot_controller) StdoutLine: {'line': b'writing entry points to ../../build/my_robot_controller/my_robot_controller.egg-info/entry_points.txt\n'}
+[2.118803] (my_robot_controller) StdoutLine: {'line': b'writing requirements to ../../build/my_robot_controller/my_robot_controller.egg-info/requires.txt\n'}
+[2.118920] (my_robot_controller) StdoutLine: {'line': b'writing top-level names to ../../build/my_robot_controller/my_robot_controller.egg-info/top_level.txt\n'}
+[2.122802] (my_robot_controller) StdoutLine: {'line': b"reading manifest file '../../build/my_robot_controller/my_robot_controller.egg-info/SOURCES.txt'\n"}
+[2.125343] (my_robot_controller) StdoutLine: {'line': b"writing manifest file '../../build/my_robot_controller/my_robot_controller.egg-info/SOURCES.txt'\n"}
+[2.126153] (my_robot_controller) StdoutLine: {'line': b'running build\n'}
+[2.126809] (-) TimerEvent: {}
+[2.127097] (my_robot_controller) StdoutLine: {'line': b'running build_py\n'}
+[2.127607] (my_robot_controller) StdoutLine: {'line': b'copying my_robot_controller/my_first_node.py -> /home/ignatj/ros2_ws/build/my_robot_controller/build/lib/my_robot_controller\n'}
+[2.128472] (my_robot_controller) StdoutLine: {'line': b'running install\n'}
+[2.128858] (my_robot_controller) StdoutLine: {'line': b'running install_lib\n'}
+[2.128994] (my_robot_controller) StderrLine: {'line': b'/usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.\n'}
+[2.129330] (my_robot_controller) StderrLine: {'line': b'  warnings.warn(\n'}
+[2.129444] (my_robot_controller) StdoutLine: {'line': b'copying /home/ignatj/ros2_ws/build/my_robot_controller/build/lib/my_robot_controller/my_first_node.py -> /home/ignatj/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller\n'}
+[2.130448] (my_robot_controller) StdoutLine: {'line': b'byte-compiling /home/ignatj/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller/my_first_node.py to my_first_node.cpython-310.pyc\n'}
+[2.131740] (my_robot_controller) StdoutLine: {'line': b'running install_data\n'}
+[2.132600] (my_robot_controller) StdoutLine: {'line': b'running install_egg_info\n'}
+[2.135731] (my_robot_controller) StdoutLine: {'line': b"removing '/home/ignatj/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller-0.0.0-py3.10.egg-info' (and everything under it)\n"}
+[2.136556] (my_robot_controller) StdoutLine: {'line': b'Copying ../../build/my_robot_controller/my_robot_controller.egg-info to /home/ignatj/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller-0.0.0-py3.10.egg-info\n'}
+[2.138786] (my_robot_controller) StdoutLine: {'line': b'running install_scripts\n'}
+[2.181743] (my_robot_controller) StdoutLine: {'line': b'Installing test_node script to /home/ignatj/ros2_ws/install/my_robot_controller/lib/my_robot_controller\n'}
+[2.182808] (my_robot_controller) StdoutLine: {'line': b"writing list of installed files to '/home/ignatj/ros2_ws/build/my_robot_controller/install.log'\n"}
+[2.227396] (-) TimerEvent: {}
+[2.236702] (my_robot_controller) CommandEnded: {'returncode': 0}
+[2.329886] (-) TimerEvent: {}
+[2.400797] (my_robot_controller) JobEnded: {'identifier': 'my_robot_controller', 'rc': 0}
+[2.404541] (-) EventReactorShutdown: {}

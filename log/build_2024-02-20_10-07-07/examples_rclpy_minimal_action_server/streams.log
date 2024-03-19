@@ -1,0 +1,56 @@
+[4.458s] Invoking command in '/home/ignatj/ros2_ws/build/examples_rclpy_minimal_action_server': PYTHONPATH=/home/ignatj/ros2_ws/build/examples_rclpy_minimal_action_server/prefix_override:/home/ignatj/ros2_ws/install/examples_rclpy_minimal_action_server/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --uninstall --editable --build-directory /home/ignatj/ros2_ws/build/examples_rclpy_minimal_action_server/build
+[5.608s] running develop
+[5.610s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[5.611s]   warnings.warn(
+[5.616s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[5.617s]   warnings.warn(
+[6.378s] Removing /home/ignatj/ros2_ws/install/examples_rclpy_minimal_action_server/lib/python3.10/site-packages/examples-rclpy-minimal-action-server.egg-link (link to .)
+[7.124s] Invoked command in '/home/ignatj/ros2_ws/build/examples_rclpy_minimal_action_server' returned '0': PYTHONPATH=/home/ignatj/ros2_ws/build/examples_rclpy_minimal_action_server/prefix_override:/home/ignatj/ros2_ws/install/examples_rclpy_minimal_action_server/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --uninstall --editable --build-directory /home/ignatj/ros2_ws/build/examples_rclpy_minimal_action_server/build
+[7.126s] Invoking command in '/home/ignatj/ros2_ws/src/examples/rclpy/actions/minimal_action_server': PYTHONPATH=/home/ignatj/ros2_ws/build/examples_rclpy_minimal_action_server/prefix_override:/home/ignatj/ros2_ws/install/examples_rclpy_minimal_action_server/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../../../build/examples_rclpy_minimal_action_server build --build-base /home/ignatj/ros2_ws/build/examples_rclpy_minimal_action_server/build install --record /home/ignatj/ros2_ws/build/examples_rclpy_minimal_action_server/install.log --single-version-externally-managed
+[8.093s] running egg_info
+[8.097s] writing ../../../../../build/examples_rclpy_minimal_action_server/examples_rclpy_minimal_action_server.egg-info/PKG-INFO
+[8.098s] writing dependency_links to ../../../../../build/examples_rclpy_minimal_action_server/examples_rclpy_minimal_action_server.egg-info/dependency_links.txt
+[8.099s] writing entry points to ../../../../../build/examples_rclpy_minimal_action_server/examples_rclpy_minimal_action_server.egg-info/entry_points.txt
+[8.101s] writing requirements to ../../../../../build/examples_rclpy_minimal_action_server/examples_rclpy_minimal_action_server.egg-info/requires.txt
+[8.102s] writing top-level names to ../../../../../build/examples_rclpy_minimal_action_server/examples_rclpy_minimal_action_server.egg-info/top_level.txt
+[8.109s] reading manifest file '../../../../../build/examples_rclpy_minimal_action_server/examples_rclpy_minimal_action_server.egg-info/SOURCES.txt'
+[8.148s] writing manifest file '../../../../../build/examples_rclpy_minimal_action_server/examples_rclpy_minimal_action_server.egg-info/SOURCES.txt'
+[8.149s] running build
+[8.150s] running build_py
+[8.151s] creating /home/ignatj/ros2_ws/build/examples_rclpy_minimal_action_server/build
+[8.152s] creating /home/ignatj/ros2_ws/build/examples_rclpy_minimal_action_server/build/lib
+[8.153s] creating /home/ignatj/ros2_ws/build/examples_rclpy_minimal_action_server/build/lib/examples_rclpy_minimal_action_server
+[8.161s] copying examples_rclpy_minimal_action_server/server.py -> /home/ignatj/ros2_ws/build/examples_rclpy_minimal_action_server/build/lib/examples_rclpy_minimal_action_server
+[8.161s] copying examples_rclpy_minimal_action_server/server_single_goal.py -> /home/ignatj/ros2_ws/build/examples_rclpy_minimal_action_server/build/lib/examples_rclpy_minimal_action_server
+[8.162s] copying examples_rclpy_minimal_action_server/server_not_composable.py -> /home/ignatj/ros2_ws/build/examples_rclpy_minimal_action_server/build/lib/examples_rclpy_minimal_action_server
+[8.163s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[8.163s]   warnings.warn(
+[8.163s] copying examples_rclpy_minimal_action_server/server_queue_goals.py -> /home/ignatj/ros2_ws/build/examples_rclpy_minimal_action_server/build/lib/examples_rclpy_minimal_action_server
+[8.164s] copying examples_rclpy_minimal_action_server/server_defer.py -> /home/ignatj/ros2_ws/build/examples_rclpy_minimal_action_server/build/lib/examples_rclpy_minimal_action_server
+[8.165s] copying examples_rclpy_minimal_action_server/__init__.py -> /home/ignatj/ros2_ws/build/examples_rclpy_minimal_action_server/build/lib/examples_rclpy_minimal_action_server
+[8.166s] running install
+[8.167s] running install_lib
+[8.169s] creating /home/ignatj/ros2_ws/install/examples_rclpy_minimal_action_server/lib/python3.10/site-packages/examples_rclpy_minimal_action_server
+[8.169s] copying /home/ignatj/ros2_ws/build/examples_rclpy_minimal_action_server/build/lib/examples_rclpy_minimal_action_server/server.py -> /home/ignatj/ros2_ws/install/examples_rclpy_minimal_action_server/lib/python3.10/site-packages/examples_rclpy_minimal_action_server
+[8.170s] copying /home/ignatj/ros2_ws/build/examples_rclpy_minimal_action_server/build/lib/examples_rclpy_minimal_action_server/server_single_goal.py -> /home/ignatj/ros2_ws/install/examples_rclpy_minimal_action_server/lib/python3.10/site-packages/examples_rclpy_minimal_action_server
+[8.171s] copying /home/ignatj/ros2_ws/build/examples_rclpy_minimal_action_server/build/lib/examples_rclpy_minimal_action_server/server_not_composable.py -> /home/ignatj/ros2_ws/install/examples_rclpy_minimal_action_server/lib/python3.10/site-packages/examples_rclpy_minimal_action_server
+[8.172s] copying /home/ignatj/ros2_ws/build/examples_rclpy_minimal_action_server/build/lib/examples_rclpy_minimal_action_server/server_queue_goals.py -> /home/ignatj/ros2_ws/install/examples_rclpy_minimal_action_server/lib/python3.10/site-packages/examples_rclpy_minimal_action_server
+[8.172s] copying /home/ignatj/ros2_ws/build/examples_rclpy_minimal_action_server/build/lib/examples_rclpy_minimal_action_server/server_defer.py -> /home/ignatj/ros2_ws/install/examples_rclpy_minimal_action_server/lib/python3.10/site-packages/examples_rclpy_minimal_action_server
+[8.173s] copying /home/ignatj/ros2_ws/build/examples_rclpy_minimal_action_server/build/lib/examples_rclpy_minimal_action_server/__init__.py -> /home/ignatj/ros2_ws/install/examples_rclpy_minimal_action_server/lib/python3.10/site-packages/examples_rclpy_minimal_action_server
+[8.176s] byte-compiling /home/ignatj/ros2_ws/install/examples_rclpy_minimal_action_server/lib/python3.10/site-packages/examples_rclpy_minimal_action_server/server.py to server.cpython-310.pyc
+[8.179s] byte-compiling /home/ignatj/ros2_ws/install/examples_rclpy_minimal_action_server/lib/python3.10/site-packages/examples_rclpy_minimal_action_server/server_single_goal.py to server_single_goal.cpython-310.pyc
+[8.182s] byte-compiling /home/ignatj/ros2_ws/install/examples_rclpy_minimal_action_server/lib/python3.10/site-packages/examples_rclpy_minimal_action_server/server_not_composable.py to server_not_composable.cpython-310.pyc
+[8.184s] byte-compiling /home/ignatj/ros2_ws/install/examples_rclpy_minimal_action_server/lib/python3.10/site-packages/examples_rclpy_minimal_action_server/server_queue_goals.py to server_queue_goals.cpython-310.pyc
+[8.187s] byte-compiling /home/ignatj/ros2_ws/install/examples_rclpy_minimal_action_server/lib/python3.10/site-packages/examples_rclpy_minimal_action_server/server_defer.py to server_defer.cpython-310.pyc
+[8.190s] byte-compiling /home/ignatj/ros2_ws/install/examples_rclpy_minimal_action_server/lib/python3.10/site-packages/examples_rclpy_minimal_action_server/__init__.py to __init__.cpython-310.pyc
+[8.190s] running install_data
+[8.193s] running install_egg_info
+[8.200s] Copying ../../../../../build/examples_rclpy_minimal_action_server/examples_rclpy_minimal_action_server.egg-info to /home/ignatj/ros2_ws/install/examples_rclpy_minimal_action_server/lib/python3.10/site-packages/examples_rclpy_minimal_action_server-0.15.1-py3.10.egg-info
+[8.206s] running install_scripts
+[8.296s] Installing server script to /home/ignatj/ros2_ws/install/examples_rclpy_minimal_action_server/lib/examples_rclpy_minimal_action_server
+[8.296s] Installing server_defer script to /home/ignatj/ros2_ws/install/examples_rclpy_minimal_action_server/lib/examples_rclpy_minimal_action_server
+[8.298s] Installing server_not_composable script to /home/ignatj/ros2_ws/install/examples_rclpy_minimal_action_server/lib/examples_rclpy_minimal_action_server
+[8.299s] Installing server_queue_goals script to /home/ignatj/ros2_ws/install/examples_rclpy_minimal_action_server/lib/examples_rclpy_minimal_action_server
+[8.301s] Installing server_single_goal script to /home/ignatj/ros2_ws/install/examples_rclpy_minimal_action_server/lib/examples_rclpy_minimal_action_server
+[8.304s] writing list of installed files to '/home/ignatj/ros2_ws/build/examples_rclpy_minimal_action_server/install.log'
+[9.647s] Invoked command in '/home/ignatj/ros2_ws/src/examples/rclpy/actions/minimal_action_server' returned '0': PYTHONPATH=/home/ignatj/ros2_ws/build/examples_rclpy_minimal_action_server/prefix_override:/home/ignatj/ros2_ws/install/examples_rclpy_minimal_action_server/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../../../build/examples_rclpy_minimal_action_server build --build-base /home/ignatj/ros2_ws/build/examples_rclpy_minimal_action_server/build install --record /home/ignatj/ros2_ws/build/examples_rclpy_minimal_action_server/install.log --single-version-externally-managed

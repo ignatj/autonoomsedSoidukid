@@ -1,0 +1,46 @@
+[1.158s] Invoking command in '/home/ignatj/ros2_ws/build/examples_rclcpp_wait_set': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ignatj/ros2_ws/install/my_robot_controller:/home/ignatj/ros2_ws/install/launch_testing_examples:/home/ignatj/ros2_ws/install/examples_rclpy_pointcloud_publisher:/home/ignatj/ros2_ws/install/examples_rclpy_minimal_subscriber:/home/ignatj/ros2_ws/install/examples_rclpy_minimal_service:/home/ignatj/ros2_ws/install/examples_rclpy_minimal_publisher:/home/ignatj/ros2_ws/install/examples_rclpy_minimal_client:/home/ignatj/ros2_ws/install/examples_rclpy_minimal_action_server:/home/ignatj/ros2_ws/install/examples_rclpy_minimal_action_client:/home/ignatj/ros2_ws/install/examples_rclpy_guard_conditions:/home/ignatj/ros2_ws/install/examples_rclpy_executors:/opt/ros/humble /usr/bin/cmake --build /home/ignatj/ros2_ws/build/examples_rclcpp_wait_set -- -j6 -l6
+[1.928s] [  8%] Built target wait_set_listener
+[1.929s] [ 16%] Built target talker
+[1.930s] [ 25%] Built target wait_set_talker
+[1.931s] [ 33%] Built target static_wait_set
+[1.932s] [ 41%] Built target listener
+[1.933s] [ 50%] Built target wait_set
+[1.934s] [ 58%] Built target thread_safe_wait_set
+[1.934s] [ 66%] Built target wait_set_topics_with_different_rates
+[1.935s] [ 75%] Built target executor_random_order
+[1.936s] [ 83%] Built target wait_set_topics_and_timer
+[1.937s] [ 91%] Built target wait_set_random_order
+[1.937s] [100%] Built target wait_set_composed
+[3.439s] Invoked command in '/home/ignatj/ros2_ws/build/examples_rclcpp_wait_set' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ignatj/ros2_ws/install/my_robot_controller:/home/ignatj/ros2_ws/install/launch_testing_examples:/home/ignatj/ros2_ws/install/examples_rclpy_pointcloud_publisher:/home/ignatj/ros2_ws/install/examples_rclpy_minimal_subscriber:/home/ignatj/ros2_ws/install/examples_rclpy_minimal_service:/home/ignatj/ros2_ws/install/examples_rclpy_minimal_publisher:/home/ignatj/ros2_ws/install/examples_rclpy_minimal_client:/home/ignatj/ros2_ws/install/examples_rclpy_minimal_action_server:/home/ignatj/ros2_ws/install/examples_rclpy_minimal_action_client:/home/ignatj/ros2_ws/install/examples_rclpy_guard_conditions:/home/ignatj/ros2_ws/install/examples_rclpy_executors:/opt/ros/humble /usr/bin/cmake --build /home/ignatj/ros2_ws/build/examples_rclcpp_wait_set -- -j6 -l6
+[5.946s] Invoking command in '/home/ignatj/ros2_ws/build/examples_rclcpp_wait_set': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ignatj/ros2_ws/install/my_robot_controller:/home/ignatj/ros2_ws/install/launch_testing_examples:/home/ignatj/ros2_ws/install/examples_rclpy_pointcloud_publisher:/home/ignatj/ros2_ws/install/examples_rclpy_minimal_subscriber:/home/ignatj/ros2_ws/install/examples_rclpy_minimal_service:/home/ignatj/ros2_ws/install/examples_rclpy_minimal_publisher:/home/ignatj/ros2_ws/install/examples_rclpy_minimal_client:/home/ignatj/ros2_ws/install/examples_rclpy_minimal_action_server:/home/ignatj/ros2_ws/install/examples_rclpy_minimal_action_client:/home/ignatj/ros2_ws/install/examples_rclpy_guard_conditions:/home/ignatj/ros2_ws/install/examples_rclpy_executors:/opt/ros/humble /usr/bin/cmake --install /home/ignatj/ros2_ws/build/examples_rclcpp_wait_set
+[5.989s] -- Install configuration: ""
+[5.989s] -- Execute custom install script
+[5.989s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/examples_rclcpp_wait_set/lib/examples_rclcpp_wait_set/wait_set_talker
+[5.989s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/examples_rclcpp_wait_set/lib/examples_rclcpp_wait_set/wait_set_listener
+[5.990s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/examples_rclcpp_wait_set/lib/libtalker.so
+[5.990s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/examples_rclcpp_wait_set/lib/liblistener.so
+[5.990s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/examples_rclcpp_wait_set/lib/examples_rclcpp_wait_set/wait_set
+[5.990s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/examples_rclcpp_wait_set/lib/examples_rclcpp_wait_set/static_wait_set
+[5.993s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/examples_rclcpp_wait_set/lib/examples_rclcpp_wait_set/thread_safe_wait_set
+[5.995s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/examples_rclcpp_wait_set/lib/examples_rclcpp_wait_set/wait_set_topics_and_timer
+[5.997s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/examples_rclcpp_wait_set/lib/examples_rclcpp_wait_set/wait_set_random_order
+[6.000s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/examples_rclcpp_wait_set/lib/examples_rclcpp_wait_set/executor_random_order
+[6.002s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/examples_rclcpp_wait_set/lib/examples_rclcpp_wait_set/wait_set_topics_with_different_rates
+[6.004s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/examples_rclcpp_wait_set/lib/examples_rclcpp_wait_set/wait_set_composed
+[6.005s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/examples_rclcpp_wait_set/share/ament_index/resource_index/package_run_dependencies/examples_rclcpp_wait_set
+[6.008s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/examples_rclcpp_wait_set/share/ament_index/resource_index/parent_prefix_path/examples_rclcpp_wait_set
+[6.010s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/examples_rclcpp_wait_set/share/examples_rclcpp_wait_set/environment/ament_prefix_path.sh
+[6.012s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/examples_rclcpp_wait_set/share/examples_rclcpp_wait_set/environment/ament_prefix_path.dsv
+[6.014s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/examples_rclcpp_wait_set/share/examples_rclcpp_wait_set/environment/path.sh
+[6.015s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/examples_rclcpp_wait_set/share/examples_rclcpp_wait_set/environment/path.dsv
+[6.018s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/examples_rclcpp_wait_set/share/examples_rclcpp_wait_set/local_setup.bash
+[6.020s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/examples_rclcpp_wait_set/share/examples_rclcpp_wait_set/local_setup.sh
+[6.021s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/examples_rclcpp_wait_set/share/examples_rclcpp_wait_set/local_setup.zsh
+[6.022s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/examples_rclcpp_wait_set/share/examples_rclcpp_wait_set/local_setup.dsv
+[6.023s] -- Symlinking: /home/ignatj/ros2_ws/install/examples_rclcpp_wait_set/share/examples_rclcpp_wait_set/package.dsv
+[6.094s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/examples_rclcpp_wait_set/share/ament_index/resource_index/packages/examples_rclcpp_wait_set
+[6.096s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/examples_rclcpp_wait_set/share/ament_index/resource_index/rclcpp_components/examples_rclcpp_wait_set
+[6.098s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/examples_rclcpp_wait_set/share/examples_rclcpp_wait_set/cmake/examples_rclcpp_wait_setConfig.cmake
+[6.099s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/examples_rclcpp_wait_set/share/examples_rclcpp_wait_set/cmake/examples_rclcpp_wait_setConfig-version.cmake
+[6.101s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/examples_rclcpp_wait_set/share/examples_rclcpp_wait_set/package.xml
+[6.626s] Invoked command in '/home/ignatj/ros2_ws/build/examples_rclcpp_wait_set' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ignatj/ros2_ws/install/my_robot_controller:/home/ignatj/ros2_ws/install/launch_testing_examples:/home/ignatj/ros2_ws/install/examples_rclpy_pointcloud_publisher:/home/ignatj/ros2_ws/install/examples_rclpy_minimal_subscriber:/home/ignatj/ros2_ws/install/examples_rclpy_minimal_service:/home/ignatj/ros2_ws/install/examples_rclpy_minimal_publisher:/home/ignatj/ros2_ws/install/examples_rclpy_minimal_client:/home/ignatj/ros2_ws/install/examples_rclpy_minimal_action_server:/home/ignatj/ros2_ws/install/examples_rclpy_minimal_action_client:/home/ignatj/ros2_ws/install/examples_rclpy_guard_conditions:/home/ignatj/ros2_ws/install/examples_rclpy_executors:/opt/ros/humble /usr/bin/cmake --install /home/ignatj/ros2_ws/build/examples_rclcpp_wait_set

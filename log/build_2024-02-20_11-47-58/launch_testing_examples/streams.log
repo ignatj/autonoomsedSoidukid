@@ -1,0 +1,22 @@
+[5.469s] Invoking command in '/home/ignatj/ros2_ws/src/examples/launch_testing/launch_testing_examples': PYTHONPATH=/home/ignatj/ros2_ws/build/launch_testing_examples/prefix_override:/home/ignatj/ros2_ws/install/launch_testing_examples/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../../build/launch_testing_examples build --build-base /home/ignatj/ros2_ws/build/launch_testing_examples/build install --record /home/ignatj/ros2_ws/build/launch_testing_examples/install.log --single-version-externally-managed
+[6.877s] running egg_info
+[6.880s] writing ../../../../build/launch_testing_examples/launch_testing_examples.egg-info/PKG-INFO
+[6.882s] writing dependency_links to ../../../../build/launch_testing_examples/launch_testing_examples.egg-info/dependency_links.txt
+[6.884s] writing entry points to ../../../../build/launch_testing_examples/launch_testing_examples.egg-info/entry_points.txt
+[6.885s] writing requirements to ../../../../build/launch_testing_examples/launch_testing_examples.egg-info/requires.txt
+[6.887s] writing top-level names to ../../../../build/launch_testing_examples/launch_testing_examples.egg-info/top_level.txt
+[6.898s] reading manifest file '../../../../build/launch_testing_examples/launch_testing_examples.egg-info/SOURCES.txt'
+[6.904s] writing manifest file '../../../../build/launch_testing_examples/launch_testing_examples.egg-info/SOURCES.txt'
+[6.905s] running build
+[6.905s] running build_py
+[6.910s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[6.911s]   warnings.warn(
+[6.911s] running install
+[6.911s] running install_lib
+[6.923s] running install_data
+[6.927s] running install_egg_info
+[6.940s] removing '/home/ignatj/ros2_ws/install/launch_testing_examples/lib/python3.10/site-packages/launch_testing_examples-0.15.1-py3.10.egg-info' (and everything under it)
+[6.946s] Copying ../../../../build/launch_testing_examples/launch_testing_examples.egg-info to /home/ignatj/ros2_ws/install/launch_testing_examples/lib/python3.10/site-packages/launch_testing_examples-0.15.1-py3.10.egg-info
+[6.958s] running install_scripts
+[7.022s] writing list of installed files to '/home/ignatj/ros2_ws/build/launch_testing_examples/install.log'
+[7.279s] Invoked command in '/home/ignatj/ros2_ws/src/examples/launch_testing/launch_testing_examples' returned '0': PYTHONPATH=/home/ignatj/ros2_ws/build/launch_testing_examples/prefix_override:/home/ignatj/ros2_ws/install/launch_testing_examples/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../../build/launch_testing_examples build --build-base /home/ignatj/ros2_ws/build/launch_testing_examples/build install --record /home/ignatj/ros2_ws/build/launch_testing_examples/install.log --single-version-externally-managed

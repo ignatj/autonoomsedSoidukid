@@ -1,0 +1,23 @@
+[0.956s] Invoking command in '/home/ignatj/ros2_ws/build/turtlebot3_gazebo': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ignatj/ros2_ws/install/my_robot_controller:/home/ignatj/ros2_ws/install/launch_testing_examples:/home/ignatj/ros2_ws/install/examples_rclpy_pointcloud_publisher:/home/ignatj/ros2_ws/install/examples_rclpy_minimal_subscriber:/home/ignatj/ros2_ws/install/examples_rclpy_minimal_service:/home/ignatj/ros2_ws/install/examples_rclpy_minimal_publisher:/home/ignatj/ros2_ws/install/examples_rclpy_minimal_client:/home/ignatj/ros2_ws/install/examples_rclpy_minimal_action_server:/home/ignatj/ros2_ws/install/examples_rclpy_minimal_action_client:/home/ignatj/ros2_ws/install/examples_rclpy_guard_conditions:/home/ignatj/ros2_ws/install/examples_rclpy_executors:/opt/ros/humble /usr/bin/cmake /home/ignatj/ros2_ws/src/turtlebot3_simulations/turtlebot3_gazebo -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/ignatj/ros2_ws/install/turtlebot3_gazebo
+[1.015s] -- Found ament_cmake: 1.3.7 (/opt/ros/humble/share/ament_cmake/cmake)
+[1.619s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[1.746s] [31mCMake Error at CMakeLists.txt:23 (find_package):
+[1.746s]   By not providing "Findgazebo.cmake" in CMAKE_MODULE_PATH this project has
+[1.746s]   asked CMake to find a package configuration file provided by "gazebo", but
+[1.747s]   CMake did not find one.
+[1.747s] 
+[1.747s]   Could not find a package configuration file provided by "gazebo" with any
+[1.748s]   of the following names:
+[1.748s] 
+[1.748s]     gazeboConfig.cmake
+[1.748s]     gazebo-config.cmake
+[1.748s] 
+[1.748s]   Add the installation prefix of "gazebo" to CMAKE_PREFIX_PATH or set
+[1.748s]   "gazebo_DIR" to a directory containing one of the above files.  If "gazebo"
+[1.749s]   provides a separate development package or SDK, be sure it has been
+[1.749s]   installed.
+[1.749s] 
+[1.749s] [0m
+[1.750s] -- Configuring incomplete, errors occurred!
+[1.750s] See also "/home/ignatj/ros2_ws/build/turtlebot3_gazebo/CMakeFiles/CMakeOutput.log".
+[1.761s] Invoked command in '/home/ignatj/ros2_ws/build/turtlebot3_gazebo' returned '1': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ignatj/ros2_ws/install/my_robot_controller:/home/ignatj/ros2_ws/install/launch_testing_examples:/home/ignatj/ros2_ws/install/examples_rclpy_pointcloud_publisher:/home/ignatj/ros2_ws/install/examples_rclpy_minimal_subscriber:/home/ignatj/ros2_ws/install/examples_rclpy_minimal_service:/home/ignatj/ros2_ws/install/examples_rclpy_minimal_publisher:/home/ignatj/ros2_ws/install/examples_rclpy_minimal_client:/home/ignatj/ros2_ws/install/examples_rclpy_minimal_action_server:/home/ignatj/ros2_ws/install/examples_rclpy_minimal_action_client:/home/ignatj/ros2_ws/install/examples_rclpy_guard_conditions:/home/ignatj/ros2_ws/install/examples_rclpy_executors:/opt/ros/humble /usr/bin/cmake /home/ignatj/ros2_ws/src/turtlebot3_simulations/turtlebot3_gazebo -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/ignatj/ros2_ws/install/turtlebot3_gazebo

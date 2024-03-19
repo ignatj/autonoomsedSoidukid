@@ -1,0 +1,31 @@
+[1.361s] Invoking command in '/home/ignatj/ros2_ws/build/turtlebot3_fake_node': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/ignatj/ros2_ws/build/turtlebot3_fake_node -- -j6 -l6
+[1.639s] [100%] Built target turtlebot3_fake_node
+[1.747s] Invoked command in '/home/ignatj/ros2_ws/build/turtlebot3_fake_node' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/ignatj/ros2_ws/build/turtlebot3_fake_node -- -j6 -l6
+[2.195s] Invoking command in '/home/ignatj/ros2_ws/build/turtlebot3_fake_node': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/ignatj/ros2_ws/build/turtlebot3_fake_node
+[2.237s] -- Install configuration: ""
+[2.247s] -- Execute custom install script
+[2.247s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_fake_node/lib/turtlebot3_fake_node/turtlebot3_fake_node
+[2.249s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/launch/rviz2.launch.py
+[2.251s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/launch/turtlebot3_fake_node.launch.py
+[2.252s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/param/burger.yaml
+[2.255s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/param/waffle.yaml
+[2.255s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/param/waffle_pi.yaml
+[2.256s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_fake_node/include//turtlebot3_fake_node/turtlebot3_fake_node.hpp
+[2.257s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_fake_node/share/ament_index/resource_index/package_run_dependencies/turtlebot3_fake_node
+[2.258s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_fake_node/share/ament_index/resource_index/parent_prefix_path/turtlebot3_fake_node
+[2.260s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/environment/ament_prefix_path.sh
+[2.261s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/environment/ament_prefix_path.dsv
+[2.262s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/environment/path.sh
+[2.266s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/environment/path.dsv
+[2.267s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/local_setup.bash
+[2.268s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/local_setup.sh
+[2.268s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/local_setup.zsh
+[2.269s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/local_setup.dsv
+[2.269s] -- Symlinking: /home/ignatj/ros2_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/package.dsv
+[2.309s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_fake_node/share/ament_index/resource_index/packages/turtlebot3_fake_node
+[2.310s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/cmake/ament_cmake_export_include_directories-extras.cmake
+[2.310s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/cmake/ament_cmake_export_dependencies-extras.cmake
+[2.311s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/cmake/turtlebot3_fake_nodeConfig.cmake
+[2.312s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/cmake/turtlebot3_fake_nodeConfig-version.cmake
+[2.313s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/package.xml
+[2.898s] Invoked command in '/home/ignatj/ros2_ws/build/turtlebot3_fake_node' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/ignatj/ros2_ws/build/turtlebot3_fake_node

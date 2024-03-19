@@ -1,0 +1,27 @@
+[4.645s] Invoking command in '/home/ignatj/ros2_ws/src/examples/rclpy/actions/minimal_action_server': PYTHONPATH=/home/ignatj/ros2_ws/build/examples_rclpy_minimal_action_server/prefix_override:/home/ignatj/ros2_ws/install/examples_rclpy_minimal_action_server/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../../../build/examples_rclpy_minimal_action_server build --build-base /home/ignatj/ros2_ws/build/examples_rclpy_minimal_action_server/build install --record /home/ignatj/ros2_ws/build/examples_rclpy_minimal_action_server/install.log --single-version-externally-managed
+[5.525s] running egg_info
+[5.530s] writing ../../../../../build/examples_rclpy_minimal_action_server/examples_rclpy_minimal_action_server.egg-info/PKG-INFO
+[5.535s] writing dependency_links to ../../../../../build/examples_rclpy_minimal_action_server/examples_rclpy_minimal_action_server.egg-info/dependency_links.txt
+[5.541s] writing entry points to ../../../../../build/examples_rclpy_minimal_action_server/examples_rclpy_minimal_action_server.egg-info/entry_points.txt
+[5.541s] writing requirements to ../../../../../build/examples_rclpy_minimal_action_server/examples_rclpy_minimal_action_server.egg-info/requires.txt
+[5.541s] writing top-level names to ../../../../../build/examples_rclpy_minimal_action_server/examples_rclpy_minimal_action_server.egg-info/top_level.txt
+[5.545s] reading manifest file '../../../../../build/examples_rclpy_minimal_action_server/examples_rclpy_minimal_action_server.egg-info/SOURCES.txt'
+[5.552s] writing manifest file '../../../../../build/examples_rclpy_minimal_action_server/examples_rclpy_minimal_action_server.egg-info/SOURCES.txt'
+[5.552s] running build
+[5.553s] running build_py
+[5.556s] running install
+[5.557s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[5.557s]   warnings.warn(
+[5.558s] running install_lib
+[5.558s] running install_data
+[5.559s] running install_egg_info
+[5.564s] removing '/home/ignatj/ros2_ws/install/examples_rclpy_minimal_action_server/lib/python3.10/site-packages/examples_rclpy_minimal_action_server-0.15.1-py3.10.egg-info' (and everything under it)
+[5.567s] Copying ../../../../../build/examples_rclpy_minimal_action_server/examples_rclpy_minimal_action_server.egg-info to /home/ignatj/ros2_ws/install/examples_rclpy_minimal_action_server/lib/python3.10/site-packages/examples_rclpy_minimal_action_server-0.15.1-py3.10.egg-info
+[5.571s] running install_scripts
+[5.631s] Installing server script to /home/ignatj/ros2_ws/install/examples_rclpy_minimal_action_server/lib/examples_rclpy_minimal_action_server
+[5.633s] Installing server_defer script to /home/ignatj/ros2_ws/install/examples_rclpy_minimal_action_server/lib/examples_rclpy_minimal_action_server
+[5.634s] Installing server_not_composable script to /home/ignatj/ros2_ws/install/examples_rclpy_minimal_action_server/lib/examples_rclpy_minimal_action_server
+[5.636s] Installing server_queue_goals script to /home/ignatj/ros2_ws/install/examples_rclpy_minimal_action_server/lib/examples_rclpy_minimal_action_server
+[5.638s] Installing server_single_goal script to /home/ignatj/ros2_ws/install/examples_rclpy_minimal_action_server/lib/examples_rclpy_minimal_action_server
+[5.641s] writing list of installed files to '/home/ignatj/ros2_ws/build/examples_rclpy_minimal_action_server/install.log'
+[6.463s] Invoked command in '/home/ignatj/ros2_ws/src/examples/rclpy/actions/minimal_action_server' returned '0': PYTHONPATH=/home/ignatj/ros2_ws/build/examples_rclpy_minimal_action_server/prefix_override:/home/ignatj/ros2_ws/install/examples_rclpy_minimal_action_server/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../../../build/examples_rclpy_minimal_action_server build --build-base /home/ignatj/ros2_ws/build/examples_rclpy_minimal_action_server/build install --record /home/ignatj/ros2_ws/build/examples_rclpy_minimal_action_server/install.log --single-version-externally-managed
