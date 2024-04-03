@@ -1,0 +1,24 @@
+[3.064s] Invoking command in '/home/ignatj/ros2_ws/src/turtlebot3/turtlebot3_example': PYTHONPATH=/home/ignatj/ros2_ws/build/turtlebot3_example/prefix_override:/home/ignatj/ros2_ws/install/turtlebot3_example/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../build/turtlebot3_example build --build-base /home/ignatj/ros2_ws/build/turtlebot3_example/build install --record /home/ignatj/ros2_ws/build/turtlebot3_example/install.log --single-version-externally-managed
+[3.606s] running egg_info
+[3.607s] writing ../../../build/turtlebot3_example/turtlebot3_example.egg-info/PKG-INFO
+[3.608s] writing dependency_links to ../../../build/turtlebot3_example/turtlebot3_example.egg-info/dependency_links.txt
+[3.609s] writing entry points to ../../../build/turtlebot3_example/turtlebot3_example.egg-info/entry_points.txt
+[3.610s] writing requirements to ../../../build/turtlebot3_example/turtlebot3_example.egg-info/requires.txt
+[3.611s] writing top-level names to ../../../build/turtlebot3_example/turtlebot3_example.egg-info/top_level.txt
+[3.616s] reading manifest file '../../../build/turtlebot3_example/turtlebot3_example.egg-info/SOURCES.txt'
+[3.619s] writing manifest file '../../../build/turtlebot3_example/turtlebot3_example.egg-info/SOURCES.txt'
+[3.620s] running build
+[3.620s] running build_py
+[3.627s] running install
+[3.628s] running install_lib
+[3.638s] running install_data
+[3.639s] running install_egg_info
+[3.642s] removing '/home/ignatj/ros2_ws/install/turtlebot3_example/lib/python3.10/site-packages/turtlebot3_example-2.1.5-py3.10.egg-info' (and everything under it)
+[3.647s] Copying ../../../build/turtlebot3_example/turtlebot3_example.egg-info to /home/ignatj/ros2_ws/install/turtlebot3_example/lib/python3.10/site-packages/turtlebot3_example-2.1.5-py3.10.egg-info
+[3.651s] running install_scripts
+[3.700s] Installing turtlebot3_obstacle_detection script to /home/ignatj/ros2_ws/install/turtlebot3_example/lib/turtlebot3_example
+[3.701s] Installing turtlebot3_patrol_client script to /home/ignatj/ros2_ws/install/turtlebot3_example/lib/turtlebot3_example
+[3.701s] Installing turtlebot3_patrol_server script to /home/ignatj/ros2_ws/install/turtlebot3_example/lib/turtlebot3_example
+[3.702s] Installing turtlebot3_position_control script to /home/ignatj/ros2_ws/install/turtlebot3_example/lib/turtlebot3_example
+[3.703s] writing list of installed files to '/home/ignatj/ros2_ws/build/turtlebot3_example/install.log'
+[4.609s] Invoked command in '/home/ignatj/ros2_ws/src/turtlebot3/turtlebot3_example' returned '0': PYTHONPATH=/home/ignatj/ros2_ws/build/turtlebot3_example/prefix_override:/home/ignatj/ros2_ws/install/turtlebot3_example/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../build/turtlebot3_example build --build-base /home/ignatj/ros2_ws/build/turtlebot3_example/build install --record /home/ignatj/ros2_ws/build/turtlebot3_example/install.log --single-version-externally-managed

@@ -1,7 +1,0 @@
-[0.625s] Invoking command in '/home/ignatj/ros2_ws/build/examples_rclcpp_minimal_publisher': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/ignatj/ros2_ws/build/examples_rclcpp_minimal_publisher -- -j6 -l6
-[0.905s] [ 16%] Built target publisher_lambda
-[0.919s] [ 33%] Built target publisher_member_function_with_type_adapter
-[0.935s] [ 50%] Built target publisher_member_function
-[0.952s] [ 83%] Built target publisher_member_function_with_unique_network_flow_endpoints
-[0.953s] [ 83%] Built target publisher_wait_for_all_acked
-[0.958s] [100%] Built target publisher_not_composable

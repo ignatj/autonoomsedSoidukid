@@ -1,0 +1,25 @@
+[0.630s] Invoking command in '/home/ignatj/ros2_ws/build/turtlebot3_cartographer': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ignatj/ros2_ws/install/turtlebot3_teleop:/home/ignatj/ros2_ws/install/turtlebot3_example:/home/ignatj/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --build /home/ignatj/ros2_ws/build/turtlebot3_cartographer -- -j6 -l6
+[1.369s] Invoked command in '/home/ignatj/ros2_ws/build/turtlebot3_cartographer' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ignatj/ros2_ws/install/turtlebot3_teleop:/home/ignatj/ros2_ws/install/turtlebot3_example:/home/ignatj/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --build /home/ignatj/ros2_ws/build/turtlebot3_cartographer -- -j6 -l6
+[1.493s] Invoking command in '/home/ignatj/ros2_ws/build/turtlebot3_cartographer': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ignatj/ros2_ws/install/turtlebot3_teleop:/home/ignatj/ros2_ws/install/turtlebot3_example:/home/ignatj/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --install /home/ignatj/ros2_ws/build/turtlebot3_cartographer
+[1.533s] -- Install configuration: ""
+[1.536s] -- Execute custom install script
+[1.542s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_cartographer/share/turtlebot3_cartographer/config/turtlebot3_lds_2d.lua
+[1.546s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_cartographer/share/turtlebot3_cartographer/launch/cartographer.launch.py
+[1.549s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_cartographer/share/turtlebot3_cartographer/launch/occupancy_grid.launch.py
+[1.557s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_cartographer/share/turtlebot3_cartographer/rviz/tb3_cartographer.rviz
+[1.558s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_cartographer/share/ament_index/resource_index/package_run_dependencies/turtlebot3_cartographer
+[1.560s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_cartographer/share/ament_index/resource_index/parent_prefix_path/turtlebot3_cartographer
+[1.561s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_cartographer/share/turtlebot3_cartographer/environment/ament_prefix_path.sh
+[1.562s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_cartographer/share/turtlebot3_cartographer/environment/ament_prefix_path.dsv
+[1.564s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_cartographer/share/turtlebot3_cartographer/environment/path.sh
+[1.566s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_cartographer/share/turtlebot3_cartographer/environment/path.dsv
+[1.567s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_cartographer/share/turtlebot3_cartographer/local_setup.bash
+[1.568s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_cartographer/share/turtlebot3_cartographer/local_setup.sh
+[1.569s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_cartographer/share/turtlebot3_cartographer/local_setup.zsh
+[1.570s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_cartographer/share/turtlebot3_cartographer/local_setup.dsv
+[1.570s] -- Symlinking: /home/ignatj/ros2_ws/install/turtlebot3_cartographer/share/turtlebot3_cartographer/package.dsv
+[1.614s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_cartographer/share/ament_index/resource_index/packages/turtlebot3_cartographer
+[1.614s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_cartographer/share/turtlebot3_cartographer/cmake/turtlebot3_cartographerConfig.cmake
+[1.615s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_cartographer/share/turtlebot3_cartographer/cmake/turtlebot3_cartographerConfig-version.cmake
+[1.615s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_cartographer/share/turtlebot3_cartographer/package.xml
+[1.621s] Invoked command in '/home/ignatj/ros2_ws/build/turtlebot3_cartographer' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ignatj/ros2_ws/install/turtlebot3_teleop:/home/ignatj/ros2_ws/install/turtlebot3_example:/home/ignatj/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --install /home/ignatj/ros2_ws/build/turtlebot3_cartographer

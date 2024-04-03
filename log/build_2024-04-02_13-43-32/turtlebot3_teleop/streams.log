@@ -1,0 +1,24 @@
+[3.414s] Invoking command in '/home/ignatj/ros2_ws/build/turtlebot3_teleop': PYTHONPATH=/home/ignatj/ros2_ws/build/turtlebot3_teleop/prefix_override:/home/ignatj/ros2_ws/install/turtlebot3_teleop/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/ignatj/ros2_ws/build/turtlebot3_teleop/build --no-deps install_data
+[4.749s] running develop
+[5.588s] running egg_info
+[5.589s] creating turtlebot3_teleop.egg-info
+[5.589s] writing turtlebot3_teleop.egg-info/PKG-INFO
+[5.597s] writing dependency_links to turtlebot3_teleop.egg-info/dependency_links.txt
+[5.598s] writing entry points to turtlebot3_teleop.egg-info/entry_points.txt
+[5.599s] writing requirements to turtlebot3_teleop.egg-info/requires.txt
+[5.599s] writing top-level names to turtlebot3_teleop.egg-info/top_level.txt
+[5.601s] writing manifest file 'turtlebot3_teleop.egg-info/SOURCES.txt'
+[5.617s] reading manifest file 'turtlebot3_teleop.egg-info/SOURCES.txt'
+[5.620s] writing manifest file 'turtlebot3_teleop.egg-info/SOURCES.txt'
+[5.631s] running build_ext
+[5.632s] Creating /home/ignatj/ros2_ws/install/turtlebot3_teleop/lib/python3.10/site-packages/turtlebot3-teleop.egg-link (link to .)
+[5.647s] Installing teleop_keyboard script to /home/ignatj/ros2_ws/install/turtlebot3_teleop/lib/turtlebot3_teleop
+[5.649s] 
+[5.649s] Installed /home/ignatj/ros2_ws/build/turtlebot3_teleop
+[5.650s] running install_data
+[5.650s] creating /home/ignatj/ros2_ws/install/turtlebot3_teleop/share/ament_index
+[5.650s] creating /home/ignatj/ros2_ws/install/turtlebot3_teleop/share/ament_index/resource_index
+[5.651s] creating /home/ignatj/ros2_ws/install/turtlebot3_teleop/share/ament_index/resource_index/packages
+[5.652s] copying resource/turtlebot3_teleop -> /home/ignatj/ros2_ws/install/turtlebot3_teleop/share/ament_index/resource_index/packages
+[5.654s] copying package.xml -> /home/ignatj/ros2_ws/install/turtlebot3_teleop/share/turtlebot3_teleop
+[5.885s] Invoked command in '/home/ignatj/ros2_ws/build/turtlebot3_teleop' returned '0': PYTHONPATH=/home/ignatj/ros2_ws/build/turtlebot3_teleop/prefix_override:/home/ignatj/ros2_ws/install/turtlebot3_teleop/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/ignatj/ros2_ws/build/turtlebot3_teleop/build --no-deps install_data

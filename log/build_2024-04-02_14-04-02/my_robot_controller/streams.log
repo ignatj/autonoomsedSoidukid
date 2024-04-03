@@ -1,0 +1,42 @@
+[2.423s] Invoking command in '/home/ignatj/ros2_ws/build/my_robot_controller': PYTHONPATH=/home/ignatj/ros2_ws/build/my_robot_controller/prefix_override:/home/ignatj/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --uninstall --editable --build-directory /home/ignatj/ros2_ws/build/my_robot_controller/build
+[3.089s] running develop
+[3.568s] Removing /home/ignatj/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages/my-robot-controller.egg-link (link to .)
+[3.655s] Invoked command in '/home/ignatj/ros2_ws/build/my_robot_controller' returned '0': PYTHONPATH=/home/ignatj/ros2_ws/build/my_robot_controller/prefix_override:/home/ignatj/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --uninstall --editable --build-directory /home/ignatj/ros2_ws/build/my_robot_controller/build
+[3.661s] Invoking command in '/home/ignatj/ros2_ws/src/my_robot_controller': PYTHONPATH=/home/ignatj/ros2_ws/build/my_robot_controller/prefix_override:/home/ignatj/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/my_robot_controller build --build-base /home/ignatj/ros2_ws/build/my_robot_controller/build install --record /home/ignatj/ros2_ws/build/my_robot_controller/install.log --single-version-externally-managed
+[4.247s] running egg_info
+[4.250s] writing ../../build/my_robot_controller/my_robot_controller.egg-info/PKG-INFO
+[4.252s] writing dependency_links to ../../build/my_robot_controller/my_robot_controller.egg-info/dependency_links.txt
+[4.252s] writing entry points to ../../build/my_robot_controller/my_robot_controller.egg-info/entry_points.txt
+[4.254s] writing requirements to ../../build/my_robot_controller/my_robot_controller.egg-info/requires.txt
+[4.254s] writing top-level names to ../../build/my_robot_controller/my_robot_controller.egg-info/top_level.txt
+[4.259s] reading manifest file '../../build/my_robot_controller/my_robot_controller.egg-info/SOURCES.txt'
+[4.265s] writing manifest file '../../build/my_robot_controller/my_robot_controller.egg-info/SOURCES.txt'
+[4.266s] running build
+[4.271s] running build_py
+[4.271s] creating /home/ignatj/ros2_ws/build/my_robot_controller/build
+[4.272s] creating /home/ignatj/ros2_ws/build/my_robot_controller/build/lib
+[4.273s] creating /home/ignatj/ros2_ws/build/my_robot_controller/build/lib/my_robot_controller
+[4.273s] copying my_robot_controller/navigation.py -> /home/ignatj/ros2_ws/build/my_robot_controller/build/lib/my_robot_controller
+[4.274s] copying my_robot_controller/mapping.py -> /home/ignatj/ros2_ws/build/my_robot_controller/build/lib/my_robot_controller
+[4.274s] copying my_robot_controller/my_first_node.py -> /home/ignatj/ros2_ws/build/my_robot_controller/build/lib/my_robot_controller
+[4.275s] copying my_robot_controller/__init__.py -> /home/ignatj/ros2_ws/build/my_robot_controller/build/lib/my_robot_controller
+[4.279s] running install
+[4.280s] running install_lib
+[4.284s] creating /home/ignatj/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller
+[4.291s] copying /home/ignatj/ros2_ws/build/my_robot_controller/build/lib/my_robot_controller/navigation.py -> /home/ignatj/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller
+[4.292s] copying /home/ignatj/ros2_ws/build/my_robot_controller/build/lib/my_robot_controller/mapping.py -> /home/ignatj/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller
+[4.293s] copying /home/ignatj/ros2_ws/build/my_robot_controller/build/lib/my_robot_controller/my_first_node.py -> /home/ignatj/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller
+[4.293s] copying /home/ignatj/ros2_ws/build/my_robot_controller/build/lib/my_robot_controller/__init__.py -> /home/ignatj/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller
+[4.293s] byte-compiling /home/ignatj/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller/navigation.py to navigation.cpython-310.pyc
+[4.293s] byte-compiling /home/ignatj/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller/mapping.py to mapping.cpython-310.pyc
+[4.294s] byte-compiling /home/ignatj/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller/my_first_node.py to my_first_node.cpython-310.pyc
+[4.295s] byte-compiling /home/ignatj/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller/__init__.py to __init__.cpython-310.pyc
+[4.296s] running install_data
+[4.297s] running install_egg_info
+[4.297s] Copying ../../build/my_robot_controller/my_robot_controller.egg-info to /home/ignatj/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller-0.0.0-py3.10.egg-info
+[4.297s] running install_scripts
+[4.327s] Installing mapping script to /home/ignatj/ros2_ws/install/my_robot_controller/lib/my_robot_controller
+[4.328s] Installing navigation script to /home/ignatj/ros2_ws/install/my_robot_controller/lib/my_robot_controller
+[4.328s] Installing test_node script to /home/ignatj/ros2_ws/install/my_robot_controller/lib/my_robot_controller
+[4.331s] writing list of installed files to '/home/ignatj/ros2_ws/build/my_robot_controller/install.log'
+[4.398s] Invoked command in '/home/ignatj/ros2_ws/src/my_robot_controller' returned '0': PYTHONPATH=/home/ignatj/ros2_ws/build/my_robot_controller/prefix_override:/home/ignatj/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/my_robot_controller build --build-base /home/ignatj/ros2_ws/build/my_robot_controller/build install --record /home/ignatj/ros2_ws/build/my_robot_controller/install.log --single-version-externally-managed

@@ -1,0 +1,28 @@
+[0.740s] Invoking command in '/home/ignatj/ros2_ws/build/turtlebot3_node': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ignatj/ros2_ws/install/turtlebot3_teleop:/home/ignatj/ros2_ws/install/turtlebot3_example:/home/ignatj/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --build /home/ignatj/ros2_ws/build/turtlebot3_node -- -j6 -l6
+[1.470s] [ 85%] Built target turtlebot3_node_lib
+[1.470s] [100%] Built target turtlebot3_ros
+[1.498s] Invoked command in '/home/ignatj/ros2_ws/build/turtlebot3_node' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ignatj/ros2_ws/install/turtlebot3_teleop:/home/ignatj/ros2_ws/install/turtlebot3_example:/home/ignatj/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --build /home/ignatj/ros2_ws/build/turtlebot3_node -- -j6 -l6
+[2.165s] Invoking command in '/home/ignatj/ros2_ws/build/turtlebot3_node': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ignatj/ros2_ws/install/turtlebot3_teleop:/home/ignatj/ros2_ws/install/turtlebot3_example:/home/ignatj/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --install /home/ignatj/ros2_ws/build/turtlebot3_node
+[2.184s] -- Install configuration: ""
+[2.185s] -- Execute custom install script
+[2.205s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_node/share/turtlebot3_node/param/burger.yaml
+[2.207s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_node/share/turtlebot3_node/param/waffle.yaml
+[2.207s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_node/share/turtlebot3_node/param/waffle_pi.yaml
+[2.208s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_node/lib/turtlebot3_node/turtlebot3_ros
+[2.208s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_node/share/ament_index/resource_index/package_run_dependencies/turtlebot3_node
+[2.208s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_node/share/ament_index/resource_index/parent_prefix_path/turtlebot3_node
+[2.208s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_node/share/turtlebot3_node/environment/ament_prefix_path.sh
+[2.209s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_node/share/turtlebot3_node/environment/ament_prefix_path.dsv
+[2.209s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_node/share/turtlebot3_node/environment/path.sh
+[2.209s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_node/share/turtlebot3_node/environment/path.dsv
+[2.209s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_node/share/turtlebot3_node/local_setup.bash
+[2.210s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_node/share/turtlebot3_node/local_setup.sh
+[2.210s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_node/share/turtlebot3_node/local_setup.zsh
+[2.210s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_node/share/turtlebot3_node/local_setup.dsv
+[2.210s] -- Symlinking: /home/ignatj/ros2_ws/install/turtlebot3_node/share/turtlebot3_node/package.dsv
+[2.241s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_node/share/ament_index/resource_index/packages/turtlebot3_node
+[2.241s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_node/share/turtlebot3_node/cmake/ament_cmake_export_include_directories-extras.cmake
+[2.241s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_node/share/turtlebot3_node/cmake/turtlebot3_nodeConfig.cmake
+[2.241s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_node/share/turtlebot3_node/cmake/turtlebot3_nodeConfig-version.cmake
+[2.241s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_node/share/turtlebot3_node/package.xml
+[3.000s] Invoked command in '/home/ignatj/ros2_ws/build/turtlebot3_node' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ignatj/ros2_ws/install/turtlebot3_teleop:/home/ignatj/ros2_ws/install/turtlebot3_example:/home/ignatj/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --install /home/ignatj/ros2_ws/build/turtlebot3_node

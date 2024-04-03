@@ -1,4 +1,1 @@
-float32 x
-float32 y
-float32 theta
----
+/home/ignatj/ros2_ws/src/ros_tutorials/turtlesim/srv/TeleportAbsolute.srv

@@ -1,0 +1,27 @@
+[2.877s] Invoking command in '/home/ignatj/ros2_ws/build/turtlebot3_example': PYTHONPATH=/home/ignatj/ros2_ws/build/turtlebot3_example/prefix_override:/home/ignatj/ros2_ws/install/turtlebot3_example/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/ignatj/ros2_ws/build/turtlebot3_example/build --no-deps install_data
+[3.563s] running develop
+[4.017s] running egg_info
+[4.018s] creating turtlebot3_example.egg-info
+[4.019s] writing turtlebot3_example.egg-info/PKG-INFO
+[4.025s] writing dependency_links to turtlebot3_example.egg-info/dependency_links.txt
+[4.025s] writing entry points to turtlebot3_example.egg-info/entry_points.txt
+[4.026s] writing requirements to turtlebot3_example.egg-info/requires.txt
+[4.026s] writing top-level names to turtlebot3_example.egg-info/top_level.txt
+[4.026s] writing manifest file 'turtlebot3_example.egg-info/SOURCES.txt'
+[4.026s] reading manifest file 'turtlebot3_example.egg-info/SOURCES.txt'
+[4.027s] writing manifest file 'turtlebot3_example.egg-info/SOURCES.txt'
+[4.032s] running build_ext
+[4.033s] Creating /home/ignatj/ros2_ws/install/turtlebot3_example/lib/python3.10/site-packages/turtlebot3-example.egg-link (link to .)
+[4.033s] Installing turtlebot3_obstacle_detection script to /home/ignatj/ros2_ws/install/turtlebot3_example/lib/turtlebot3_example
+[4.034s] Installing turtlebot3_patrol_client script to /home/ignatj/ros2_ws/install/turtlebot3_example/lib/turtlebot3_example
+[4.034s] Installing turtlebot3_patrol_server script to /home/ignatj/ros2_ws/install/turtlebot3_example/lib/turtlebot3_example
+[4.036s] Installing turtlebot3_position_control script to /home/ignatj/ros2_ws/install/turtlebot3_example/lib/turtlebot3_example
+[4.036s] 
+[4.036s] Installed /home/ignatj/ros2_ws/build/turtlebot3_example
+[4.036s] running install_data
+[4.036s] creating /home/ignatj/ros2_ws/install/turtlebot3_example/share/ament_index
+[4.036s] creating /home/ignatj/ros2_ws/install/turtlebot3_example/share/ament_index/resource_index
+[4.037s] creating /home/ignatj/ros2_ws/install/turtlebot3_example/share/ament_index/resource_index/packages
+[4.037s] copying resource/turtlebot3_example -> /home/ignatj/ros2_ws/install/turtlebot3_example/share/ament_index/resource_index/packages
+[4.038s] copying package.xml -> /home/ignatj/ros2_ws/install/turtlebot3_example/share/turtlebot3_example
+[4.498s] Invoked command in '/home/ignatj/ros2_ws/build/turtlebot3_example' returned '0': PYTHONPATH=/home/ignatj/ros2_ws/build/turtlebot3_example/prefix_override:/home/ignatj/ros2_ws/install/turtlebot3_example/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/ignatj/ros2_ws/build/turtlebot3_example/build --no-deps install_data

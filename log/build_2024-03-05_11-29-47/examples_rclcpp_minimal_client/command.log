@@ -1,1 +1,0 @@
-Invoking command in '/home/ignatj/ros2_ws/build/examples_rclcpp_minimal_client': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/ignatj/ros2_ws/build/examples_rclcpp_minimal_client -- -j6 -l6

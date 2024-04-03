@@ -1,0 +1,28 @@
+[1.080s] Invoking command in '/home/ignatj/ros2_ws/build/turtlebot3_navigation2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ignatj/ros2_ws/install/turtlebot3_teleop:/home/ignatj/ros2_ws/install/turtlebot3_example:/home/ignatj/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --build /home/ignatj/ros2_ws/build/turtlebot3_navigation2 -- -j6 -l6
+[2.031s] Invoked command in '/home/ignatj/ros2_ws/build/turtlebot3_navigation2' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ignatj/ros2_ws/install/turtlebot3_teleop:/home/ignatj/ros2_ws/install/turtlebot3_example:/home/ignatj/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --build /home/ignatj/ros2_ws/build/turtlebot3_navigation2 -- -j6 -l6
+[3.224s] Invoking command in '/home/ignatj/ros2_ws/build/turtlebot3_navigation2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ignatj/ros2_ws/install/turtlebot3_teleop:/home/ignatj/ros2_ws/install/turtlebot3_example:/home/ignatj/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --install /home/ignatj/ros2_ws/build/turtlebot3_navigation2
+[3.249s] -- Install configuration: ""
+[3.250s] -- Execute custom install script
+[3.252s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/launch/navigation2.launch.py
+[3.253s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/map/map.pgm
+[3.254s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/map/map.yaml
+[3.255s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/param/burger.yaml
+[3.256s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/param/waffle.yaml
+[3.257s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/param/waffle_pi.yaml
+[3.258s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/rviz/tb3_navigation2.rviz
+[3.259s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_navigation2/share/ament_index/resource_index/package_run_dependencies/turtlebot3_navigation2
+[3.259s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_navigation2/share/ament_index/resource_index/parent_prefix_path/turtlebot3_navigation2
+[3.260s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/environment/ament_prefix_path.sh
+[3.260s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/environment/ament_prefix_path.dsv
+[3.260s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/environment/path.sh
+[3.260s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/environment/path.dsv
+[3.261s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/local_setup.bash
+[3.261s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/local_setup.sh
+[3.261s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/local_setup.zsh
+[3.261s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/local_setup.dsv
+[3.262s] -- Symlinking: /home/ignatj/ros2_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/package.dsv
+[3.286s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_navigation2/share/ament_index/resource_index/packages/turtlebot3_navigation2
+[3.287s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/cmake/turtlebot3_navigation2Config.cmake
+[3.288s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/cmake/turtlebot3_navigation2Config-version.cmake
+[3.288s] -- Up-to-date symlink: /home/ignatj/ros2_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/package.xml
+[3.996s] Invoked command in '/home/ignatj/ros2_ws/build/turtlebot3_navigation2' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ignatj/ros2_ws/install/turtlebot3_teleop:/home/ignatj/ros2_ws/install/turtlebot3_example:/home/ignatj/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --install /home/ignatj/ros2_ws/build/turtlebot3_navigation2
